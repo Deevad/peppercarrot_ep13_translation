@@ -240,7 +240,7 @@
      showgrid="false"
      inkscape:zoom="0.46000001"
      inkscape:cx="1247.1781"
-     inkscape:cy="1429.7702"
+     inkscape:cy="1951.5093"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -253,11 +253,11 @@
     <image
        sodipodi:absref="/home/nightmare/Projects/p_c/peppercarrot_ep13_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -494,6 +494,6 @@
          x="455.13419"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha"
          sodipodi:role="line"
-         id="tspan3431">слишком легкий...</tspan></text>
+         id="tspan3431">чересчур легкий...</tspan></text>
   </g>
 </svg>

@@ -164,8 +164,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000001"
-     inkscape:cx="1360.4468"
-     inkscape:cy="2856.7067"
+     inkscape:cx="1260.4468"
+     inkscape:cy="456.70676"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -179,11 +179,11 @@
     <image
        sodipodi:absref="/home/nightmare/Projects/p_c/peppercarrot_ep13_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -342,7 +342,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha"
          x="1245.3212"
          y="3281.7651"
-         id="tspan3694">не-должна-обитать-</tspan><tspan
+         id="tspan3694">не-должна-жить-</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha"
          x="1245.3212"
@@ -454,10 +454,10 @@
        id="text4246-41"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:50px;-inkscape-font-specification:Neucha;font-family:Neucha;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha"
          x="1285.0151"
          y="506.20026"
-         id="tspan4291">... &quot;банальным&quot; ?...</tspan></text>
+         id="tspan4291">... &quot;банальным&quot; ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
