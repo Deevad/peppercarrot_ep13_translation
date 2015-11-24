@@ -13,6 +13,7 @@ License
 
 ## Translators and correctors:
 
+* Dutch: Willem Sonke and Midgard
 * English: Alex Gryson
 * French: David Revoy
 * Mexicano: RJ Quiralta
