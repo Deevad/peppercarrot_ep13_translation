@@ -151,9 +151,9 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.32343248"
-     inkscape:cx="1385.5373"
-     inkscape:cy="904.45414"
+     inkscape:zoom="0.49190037"
+     inkscape:cx="1395.7482"
+     inkscape:cy="638.29525"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -166,11 +166,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -368,5 +368,18 @@
          x="2059.5447"
          y="2616.4343"
          style="stroke-width:3.82173181;stroke-miterlimit:4;stroke-dasharray:none">- FIN -</tspan></text>
+    <text
+       transform="matrix(0.28748374,0.14909896,-0.65903124,0.26591764,3002.6373,1539.8144)"
+       x="1318.7137"
+       y="3129.8394"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.43399999;fill:#412525;fill-opacity:1;stroke:none;filter:url(#filter4552-8-9-4)"
+       id="text4208"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4210"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#412525;fill-opacity:1"
+         x="1318.7137"
+         y="3129.8394">Citadels &amp; Phoenixes</tspan></text>
   </g>
 </svg>
