@@ -15,7 +15,8 @@ License
 
 * English: Alex Gryson
 * French: David Revoy
-
+* Russian: Denis "uncle Night" Prisukhin
+* Ukrainian: Denis "uncle Night" Prisukhin
 
 ## Artwork:
 

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E13P06.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-5-4-9"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-0-3-0"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-6-6-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-0-9-2"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-7-5-85"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-5-4-9-2"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-0-3-0-0"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-6-6-2-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-0-9-2-0"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-7-5-85-7"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-5-4-9-3"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-0-3-0-1"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-6-6-2-26"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-0-9-2-8"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-7-5-85-2"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4552-8-9-4"
+       x="-0.010508748"
+       width="1.0210176"
+       y="-0.11101427"
+       height="1.2220285">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.6224608"
+         id="feGaussianBlur4554-6-3-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4552-8-9-4-6"
+       x="-0.010508748"
+       width="1.0210176"
+       y="-0.11101427"
+       height="1.2220285">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.6224608"
+         id="feGaussianBlur4554-6-3-2-2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.4574026"
+     inkscape:cx="1087.1862"
+     inkscape:cy="1904.0162"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/nightmare/Projects/p_c/peppercarrot_ep13_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P06.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P06.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1876.9906,1720.7575 c -69.1064,15.4775 -126.2741,90.7678 -64.3829,148.0837 -44.4695,-72.6711 41.253,-110.6276 82.0461,-113.5987 25.7518,0.6306 -17.6632,-34.485 -17.6632,-34.485 z"
+       id="path3978"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.00374985px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.90000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4375-5-4-9);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="1367.1063"
+       y="691.71692"
+       id="text4136"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.6322045,0.15033006,0,0.79645319,201.11125,-80.537932)"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="1367.1063"
+         y="691.71692">Тук</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55119371px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(360.38682,3338.7023)"><flowRegion
+         id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
+           id="rect2991-7-9-6-21-9-8-0-3-1-7"
+           width="2283.5913"
+           height="41.535503"
+           x="-248.6331"
+           y="9.6225204"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara3272-6-3-1">11/2015 - Сюжет и графика: David Revoy    Перевод: uncle Night</flowPara></flowRoot>    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1777.3427,1434.9917 c 28.6957,-19.9015 233.3735,-38.9633 291.4703,12.2046 48.4927,42.7087 45.3811,126.3791 0.9689,157.8253 -45.2464,32.0367 -217.6732,20.7215 -284.3169,5.3796 -62.7572,-14.4472 -61.6217,-49.367 -59.91,-110.2337 0.6986,-24.8418 23.0922,-45.2745 51.7877,-65.1758 z"
+       id="path4040-4-5-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zssssz" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4178"
+       y="1475.6417"
+       x="1911.8796"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1475.6417"
+         x="1918.1638"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Neucha;-inkscape-font-specification:Neucha"
+         sodipodi:role="line"
+         id="tspan3603">Я знаю, ты </tspan><tspan
+         y="1531.8917"
+         x="1918.1638"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Neucha;-inkscape-font-specification:Neucha"
+         sodipodi:role="line"
+         id="tspan3392">просто пытался </tspan><tspan
+         y="1588.1417"
+         x="1911.8796"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Neucha;-inkscape-font-specification:Neucha"
+         sodipodi:role="line"
+         id="tspan3394">меня защитить...</tspan></text>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1710.8829,1304.4113 c 23.5201,-13.7784 191.2821,-26.9756 238.9005,8.4495 39.7465,29.5687 37.1962,87.4966 0.7941,109.2678 -37.0856,22.1801 -178.4135,14.3463 -233.0372,3.7245 -51.4383,-10.0022 -50.5076,-34.1783 -49.1046,-76.3184 0.5727,-17.1989 18.9272,-31.345 42.4472,-45.1234 z"
+       id="path4040-4-5-3-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zssssz" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4178-1"
+       y="1348.4341"
+       x="1817.2318"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1348.4341"
+         x="1824.3821"
+         style="font-size:43.75px;-inkscape-font-specification:Neucha;font-family:Neucha;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         sodipodi:role="line"
+         id="tspan4235">Да ну, </tspan><tspan
+         y="1402.248"
+         x="1817.2318"
+         style="font-size:43.75px;-inkscape-font-specification:Neucha;font-family:Neucha;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         sodipodi:role="line"
+         id="tspan4239">не дуйся!</tspan></text>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1788.7898,1621.3703 c 34.1739,-19.6695 272.2988,-24.6424 347.1138,12.0624 67.0615,32.9009 54.0448,124.9063 1.1539,155.986 -53.8843,31.6635 -259.2284,20.48 -338.5949,5.317 -74.738,-14.2789 -77.6333,-49.2322 -71.3472,-108.9491 4.218,-40.0693 27.5006,-44.7469 61.6744,-64.4163 z"
+       id="path4040-4-5-3-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zssssz" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4178-6"
+       y="1662.4165"
+       x="1944.4205"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1662.4165"
+         x="1944.4205"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Neucha;-inkscape-font-specification:Neucha"
+         sodipodi:role="line"
+         id="tspan3611">... но в этом не было</tspan><tspan
+         y="1718.6665"
+         x="1944.4205"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Neucha;-inkscape-font-specification:Neucha"
+         sodipodi:role="line"
+         id="tspan3398">необходимости, мы</tspan><tspan
+         y="1774.9165"
+         x="1944.4205"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Neucha;-inkscape-font-specification:Neucha"
+         sodipodi:role="line"
+         id="tspan3400">всего лишь играем!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.00374985px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.90000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4375-5-4-9-3);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="1367.1063"
+       y="691.71692"
+       id="text4136-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.86619653,-0.09897381,-0.04163634,1.0337332,990.71602,2420.1286)"><tspan
+         sodipodi:role="line"
+         id="tspan4138-8"
+         x="1367.1063"
+         y="691.71692">Гррр</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4178-6-5-9-0-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.43399999;fill:#412525;fill-opacity:1;stroke:none;filter:url(#filter4552-8-9-4)"
+       xml:space="preserve"
+       y="3129.8394"
+       x="1318.7137"
+       transform="matrix(0.79399618,0.00599505,-0.16710117,0.70250588,566.35987,928.29059)"><tspan
+         y="3129.8394"
+         x="1318.7137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.42726707px;font-family:'Ruslan Display';-inkscape-font-specification:'Ruslan Display';fill:#412525;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan4293-1-6-3-5">Цитадели и Фениксы</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4178-6-5-9-0-7"
+       id="use4664"
+       transform="matrix(-0.08333857,0.4312511,-1.1395718,0.00256786,4638.0243,2371.6871)"
+       width="2481"
+       height="3503" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4178-6-5-9-0-7"
+       id="use4690"
+       transform="matrix(-0.8491704,0.01629325,-0.01626883,-0.77654093,2306.6167,5179.3179)"
+       width="2481"
+       height="3503" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4664"
+       id="use4692"
+       transform="matrix(-0.76157318,0.78737844,-1.1562027,-0.81859716,5585.5693,4517.5604)"
+       width="2481"
+       height="3503" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4664"
+       id="use4694"
+       transform="matrix(0.2413678,0.96175958,-1.2866298,0.18042315,4666.0569,751.999)"
+       width="2481"
+       height="3503" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4178-6-5-9-0-7-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.43399999;fill:#28220b;fill-opacity:1;stroke:none;filter:url(#filter4552-8-9-4-6)"
+       xml:space="preserve"
+       y="3129.8394"
+       x="1318.7137"
+       transform="matrix(0.79298761,0.00753598,0.0219157,0.88307326,115.36444,-1541.0624)"><tspan
+         y="3129.8394"
+         x="1318.7137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:'Ruslan Display';-inkscape-font-specification:'Ruslan Display';fill:#28220b;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan4293-1-6-3-5-4">ПРИНЦЕССА КОРИАНДРА</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.55184174px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.82173181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="2059.5447"
+       y="2616.4343"
+       id="text4213"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.75304346,0,-0.11971288,1.3279446,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4215"
+         x="2059.5447"
+         y="2616.4343"
+         style="stroke-width:3.82173181;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Neucha;font-family:Neucha;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:67.50000013px">- КОНЕЦ -</tspan></text>
+  </g>
+</svg>
