@@ -587,9 +587,9 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.26300649"
-     inkscape:cx="2216.0821"
-     inkscape:cy="-2.5592847"
+     inkscape:zoom="0.4"
+     inkscape:cx="1368.3436"
+     inkscape:cy="1303.1488"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -602,11 +602,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -618,7 +618,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 98.295454,2749.2524 c 10.117466,-57.2493 28.516736,-76.0957 347.556606,-87.024 129.86255,-4.4483 244.93437,16.3501 231.62142,100.2221 -13.31287,83.872 -193.11402,69.1874 -237.01102,70.9729 -43.89701,1.7855 -271.69151,-1.9348 -310.34306,-30.6394 -24.19535,-17.9683 -33.317749,-35.7947 -31.823946,-53.5316 z"
+       d="m 64.282719,2744.8439 c 11.007205,-69.1946 31.024521,-91.9735 378.121061,-105.1821 141.2828,-5.3765 266.47414,19.7617 251.99043,121.1341 -14.48361,101.3724 -210.09665,83.6239 -257.85399,85.7819 -47.75736,2.1581 -295.58432,-2.3385 -337.634925,-37.0325 -26.323114,-21.7175 -36.247746,-43.2635 -34.622576,-64.7014 z"
        id="path4546-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -710,7 +710,7 @@
          id="tspan4217">we feel right at home.</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 854.15097,2927.9832 c -99.06274,-3.7148 -244.53931,-17.9781 -273.21306,-47.9047 -28.67375,-29.9266 -22.8673,-67.697 34.50888,-85.0956 57.37582,-17.3979 156.03655,-32.8363 241.91768,-28.3402 85.88115,4.4966 198.46243,23.4937 225.44773,51.5877 26.9857,28.0933 3.5164,88.9495 -106.7415,102.0598 -110.25782,13.1104 -121.91973,7.693 -121.91973,7.693 z"
+       d="m 872.93207,2929.6937 c -102.2493,-4.317 -252.40542,-20.8928 -282.00152,-55.6712 -29.5961,-34.7785 -23.60287,-78.6724 35.61893,-98.8918 59.22143,-20.2185 161.05579,-38.1599 249.69946,-32.9348 88.64369,5.2256 204.84636,27.3026 232.69976,59.9513 27.8537,32.648 3.6295,103.3705 -110.1751,118.6063 -113.80449,15.2359 -125.84153,8.9402 -125.84153,8.9402 z"
        id="path3970"
        inkscape:connector-curvature="0" />
     <path
@@ -721,20 +721,20 @@
        sodipodi:nodetypes="ccsc" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="833.17432"
-       y="2832.8254"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="846.40686"
+       y="2825.2639"
        id="text4246-5-1-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="833.17432"
-         y="2832.8254"
+         x="846.40686"
+         y="2825.2639"
          id="tspan4223">... so refined and cosy</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="833.17432"
-         y="2889.0754"
+         x="846.40686"
+         y="2881.5139"
          id="tspan3733">at the same time!</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
