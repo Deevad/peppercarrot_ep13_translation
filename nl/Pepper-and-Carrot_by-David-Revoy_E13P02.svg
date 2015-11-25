@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E13P02.svg">
@@ -583,15 +583,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="997"
+     inkscape:window-width="1600"
+     inkscape:window-height="832"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.68704007"
-     inkscape:cx="761.12605"
-     inkscape:cy="3157.3628"
-     inkscape:window-x="-5"
-     inkscape:window-y="-10"
+     inkscape:zoom="0.34352004"
+     inkscape:cx="1459.3179"
+     inkscape:cy="741.14786"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -600,13 +600,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/ruben/Documents/pepperandcarrot/peppercarrot_ep13_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep13_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -630,7 +630,7 @@
        sodipodi:nodetypes="cscsssssscssssccscccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1754.3858,2427.8568 c 6.2666,-98.8206 96.6724,-171.1154 334.2695,-152.5098 127.2698,9.9661 271.7284,16.5062 264.0237,161.2716 -7.7049,144.7652 -215.2725,141.0317 -258.0738,144.4146 -42.802,3.3828 -266.1142,-11.8111 -305.7183,-61.0576 -24.7915,-30.8271 -34.8382,-61.5135 -34.5011,-92.1188 z"
+       d="m 1819.8826,2427.8568 c 5.0171,-98.8206 77.3971,-171.1154 267.6204,-152.5098 101.8938,9.9661 217.5492,16.5062 211.3807,161.2716 -6.1686,144.7652 -172.3499,141.0317 -206.6172,144.4146 -34.2678,3.3828 -213.0544,-11.8111 -244.7619,-61.0576 -19.8485,-30.8271 -27.8919,-61.5135 -27.622,-92.1188 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -685,29 +685,29 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="2059.8596"
-       y="2367.9304"
+       y="2351.9197"
        id="text4246-5-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2059.8596"
-         y="2367.9304"
-         id="tspan4445">Non, t'inquiètes pas;</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="2067.7698"
-         y="2424.1804"
-         id="tspan4209">ils sont super acceuillants, </tspan><tspan
+         y="2351.9197"
+         id="tspan4217">Nee hoor,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2059.8596"
-         y="2480.4304"
-         id="tspan4215">on se sent tout de</tspan><tspan
+         y="2408.1697"
+         id="tspan5482">ze zijn heel gastvrij;</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2059.8596"
-         y="2536.6804"
-         id="tspan4217">suite à l'aise.</tspan></text>
+         y="2464.4197"
+         id="tspan5484">je voelt me meteen</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2059.8596"
+         y="2520.6697"
+         id="tspan5486">op je gemak.</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 840.15097,2925.941 c -99.06274,-3.8563 -244.53931,-18.6626 -273.21306,-49.7285 -28.67375,-31.066 -22.8673,-70.2743 34.50888,-88.3353 57.37582,-18.0603 156.03655,-34.0865 241.91768,-29.4192 85.88115,4.6678 198.46243,24.3882 225.44773,53.5517 26.9857,29.1629 3.5164,92.336 -106.7415,105.9454 -110.25782,13.6095 -121.91973,7.9859 -121.91973,7.9859 z"
@@ -730,15 +730,15 @@
          style="font-size:45px"
          x="823.17432"
          y="2824.8254"
-         id="tspan4445-7">...si raffinée et</tspan><tspan
+         id="tspan4223">... zo verfijnd, maar</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="823.17432"
          y="2881.0754"
-         id="tspan4223">chaleureuse à la fois!</tspan></text>
+         id="tspan5496">toch ook gezellig!</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1833.8679,2899.3151 c -69.4472,-2.8578 -171.4325,-13.8303 -191.5341,-36.8526 -20.1014,-23.0224 -16.0308,-52.0788 24.1921,-65.4633 40.223,-13.3842 109.3884,-25.2609 169.5947,-21.802 60.2063,3.4591 139.1306,18.0736 158.0483,39.6859 18.918,21.6121 2.4651,68.4283 -74.8303,78.5139 -77.2953,10.0857 -85.4707,5.9181 -85.4707,5.9181 z"
+       d="m 1835.8586,2899.3151 c -77.1579,-2.8578 -190.4667,-13.8303 -212.8002,-36.8526 -22.3333,-23.0224 -17.8108,-52.0788 26.8781,-65.4633 44.689,-13.3842 121.5339,-25.2609 188.425,-21.802 66.891,3.4591 154.5783,18.0736 175.5965,39.6859 21.0185,21.6121 2.7388,68.4283 -83.1388,78.5139 -85.8774,10.0857 -94.9606,5.9181 -94.9606,5.9181 z"
        id="path3970-3"
        inkscape:connector-curvature="0" />
     <text
@@ -752,7 +752,7 @@
          style="font-size:45px"
          x="1813.5154"
          y="2850.3528"
-         id="tspan4445-7-2">Bien vrai, ça!</tspan></text>
+         id="tspan4445-7-2">Ja, dat is waar!</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1789.5286,2859.2084 c -17.4406,19.6955 -35.494,44.5832 -39.1772,50.8007 9.5576,0.2371 17.8297,1.9947 24.3169,3.2572 -7.9427,11.0687 -48.099,60.7935 -62.702,68.943 36.8821,-18.8625 70.248,-54.786 81.7008,-73.7289 -8.1189,-3.0555 -13.5504,-3.8913 -17.7731,-5.5983 5.1986,-9.6848 29.5461,-37.9212 29.5461,-37.9212 z"
@@ -769,12 +769,12 @@
          x="420.4519"
          style="font-size:45px"
          sodipodi:role="line"
-         id="tspan4535">Moi je suis impressionée</tspan><tspan
+         id="tspan4221">Ik ben onder de indruk</tspan><tspan
          y="2797.9707"
          x="420.4519"
          style="font-size:45px"
          sodipodi:role="line"
-         id="tspan4221">par la déco...</tspan></text>
+         id="tspan5492">van de inrichting...</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4238);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -789,7 +789,7 @@
          y="1742.2045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:url(#linearGradient4238);fill-opacity:1"><tspan
            style="font-size:90px;fill:url(#linearGradient4238);fill-opacity:1"
-           id="tspan4349">WoooOoh</tspan><tspan
+           id="tspan4349">WoeeEeh</tspan><tspan
            id="tspan4365"
            style="font-size:45.57711792px;fill:url(#linearGradient4238);fill-opacity:1"> ! </tspan><tspan
            id="tspan4311"
@@ -810,7 +810,7 @@
          y="1742.2045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:url(#linearGradient4367);fill-opacity:1"><tspan
            style="font-size:90px;fill:url(#linearGradient4367);fill-opacity:1"
-           id="tspan4349-3">WoOoh</tspan><tspan
+           id="tspan4349-3">WoEeh</tspan><tspan
            id="tspan4365-3"
            style="font-size:45.57711792px;fill:url(#linearGradient4367);fill-opacity:1"> ! </tspan><tspan
            id="tspan4311-2"
@@ -831,7 +831,7 @@
          y="1742.2045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:url(#linearGradient4260);fill-opacity:1"><tspan
            style="font-size:90px;fill:url(#linearGradient4260);fill-opacity:1"
-           id="tspan4349-3-5">WoooOoh</tspan><tspan
+           id="tspan4349-3-5">WoeeEeh</tspan><tspan
            id="tspan4365-3-2"
            style="font-size:45.57711792px;fill:url(#linearGradient4260);fill-opacity:1"> ! </tspan><tspan
            id="tspan4311-2-4"
@@ -852,7 +852,7 @@
          id="tspan4253-5"
          x="1705.2566"
          y="1742.2045"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.57711792px;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:8.21055126px">chwwwwwwiiing !</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.57711792px;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:8.21055126px">Tsjwwwwwwiiing!</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-1);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -867,7 +867,7 @@
          id="tspan4253-5-1"
          x="1705.2566"
          y="1742.2045"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.57711792px;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:6.35989513px">Klaf !</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.57711792px;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:6.35989523px">Klaf!</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-1-5);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -882,7 +882,7 @@
          id="tspan4253-5-1-0"
          x="1705.2566"
          y="1742.2045"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.57711792px;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:6.35989523px">Klukf !</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.57711792px;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:6.35989523px">Klukf!</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff9e9e;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7-8);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -918,7 +918,7 @@
          y="1742.2045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#d7e3f4;fill-opacity:1"><tspan
            style="font-size:90px;fill:#d7e3f4;fill-opacity:1"
-           id="tspan4349-9-9">Shkak </tspan><tspan
+           id="tspan4349-9-9">Shkak</tspan><tspan
            id="tspan4365-0-3"
            style="font-size:45.57711792px;fill:#d7e3f4;fill-opacity:1">! </tspan><tspan
            id="tspan4311-9-7"
@@ -935,6 +935,6 @@
          sodipodi:role="line"
          id="tspan3483"
          x="863.12286"
-         y="291.39694"></tspan></text>
+         y="291.39694" /></text>
   </g>
 </svg>
