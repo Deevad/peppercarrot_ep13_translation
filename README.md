@@ -13,6 +13,7 @@ License
 
 ## Translators and correctors:
 
+* Chinese: Ran Zhuang
 * English: Alex Gryson
 * French: David Revoy
 * Mexicano: RJ Quiralta
