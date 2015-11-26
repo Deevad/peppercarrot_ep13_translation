@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E13P02.svg">
@@ -583,15 +583,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="832"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.34352004"
-     inkscape:cx="1459.3179"
-     inkscape:cy="741.14786"
-     inkscape:window-x="1280"
-     inkscape:window-y="0"
+     inkscape:zoom="0.53004069"
+     inkscape:cx="1612.7883"
+     inkscape:cy="611.52888"
+     inkscape:window-x="-5"
+     inkscape:window-y="-10"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -600,13 +600,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/willem/Git/peppercarrot_ep13_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
+       sodipodi:absref="/home/ruben/Documents/pepperandcarrot/peppercarrot_ep13_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -618,7 +618,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 134.04031,2749.2524 c 9.0615,-57.2493 94.2941,-98.78 311.2823,-87.024 116.2306,6.297 248.3196,10.679 236.3961,94.551 -11.9234,83.872 -201.9077,80.8585 -241.2232,82.644 -39.3155,1.7855 -243.3352,-7.9348 -277.9527,-36.6394 -21.6701,-17.9683 -29.8404,-35.7947 -28.5025,-53.5316 z"
+       d="m 111.40054,2737.9325 c 9.0615,-57.2493 94.2941,-98.78 311.2823,-87.024 116.2306,6.297 248.3196,10.679 236.3961,94.551 -11.9234,83.872 -201.9077,80.8585 -241.2232,82.644 -39.3155,1.7855 -243.3352,-7.9348 -277.9527,-36.6394 -21.6701,-17.9683 -29.8404,-35.7947 -28.5025,-53.5316 z"
        id="path4546-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -702,7 +702,7 @@
          style="font-size:45px"
          x="2059.8596"
          y="2464.4197"
-         id="tspan5484">je voelt me meteen</tspan><tspan
+         id="tspan5484">je voelt je meteen</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2059.8596"
@@ -710,7 +710,7 @@
          id="tspan5486">op je gemak.</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 840.15097,2925.941 c -99.06274,-3.8563 -244.53931,-18.6626 -273.21306,-49.7285 -28.67375,-31.066 -22.8673,-70.2743 34.50888,-88.3353 57.37582,-18.0603 156.03655,-34.0865 241.91768,-29.4192 85.88115,4.6678 198.46243,24.3882 225.44773,53.5517 26.9857,29.1629 3.5164,92.336 -106.7415,105.9454 -110.25782,13.6095 -121.91973,7.9859 -121.91973,7.9859 z"
+       d="m 742.41021,2956.111 c -100.4762,-3.9114 -248.02849,-18.9289 -277.11137,-50.4381 -29.08288,-31.5092 -23.19358,-71.277 35.00127,-89.5957 58.19448,-18.318 158.26294,-34.5728 245.36946,-29.8389 87.10653,4.7344 201.29415,24.7361 228.66455,54.3158 27.37068,29.579 3.5665,93.6534 -108.26458,107.457 -111.83102,13.8037 -123.65933,8.0999 -123.65933,8.0999 z"
        id="path3970"
        inkscape:connector-curvature="0" />
     <path
@@ -722,19 +722,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="823.17432"
-       y="2824.8254"
+       x="725.0686"
+       y="2858.7849"
        id="text4246-5-1-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="823.17432"
-         y="2824.8254"
+         x="725.0686"
+         y="2858.7849"
          id="tspan4223">... zo verfijnd, maar</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="823.17432"
-         y="2881.0754"
+         x="725.0686"
+         y="2915.0349"
          id="tspan5496">toch ook gezellig!</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
@@ -761,17 +761,17 @@
     <text
        sodipodi:linespacing="125%"
        id="text4529"
-       y="2741.7207"
-       x="420.4519"
+       y="2730.4009"
+       x="397.81213"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="2741.7207"
-         x="420.4519"
+         y="2730.4009"
+         x="397.81213"
          style="font-size:45px"
          sodipodi:role="line"
          id="tspan4221">Ik ben onder de indruk</tspan><tspan
-         y="2797.9707"
-         x="420.4519"
+         y="2786.6509"
+         x="397.81213"
          style="font-size:45px"
          sodipodi:role="line"
          id="tspan5492">van de inrichting...</tspan></text>

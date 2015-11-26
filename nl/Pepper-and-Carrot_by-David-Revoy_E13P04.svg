@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E13P04.svg">
@@ -234,15 +234,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="832"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.65053825"
-     inkscape:cx="737.4018"
-     inkscape:cy="416.56795"
-     inkscape:window-x="1280"
-     inkscape:window-y="0"
+     inkscape:zoom="0.5018801"
+     inkscape:cx="1577.748"
+     inkscape:cy="371.00076"
+     inkscape:window-x="-5"
+     inkscape:window-y="-10"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -251,13 +251,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/willem/Git/peppercarrot_ep13_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
+       sodipodi:absref="/home/ruben/Documents/pepperandcarrot/peppercarrot_ep13_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -269,7 +269,7 @@
      inkscape:label="txt">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 189.48748,1745.1037 c 2.7936,-63.6683 49.7361,-85.4201 99.29603,-98.0971 49.55996,-12.6768 239.14847,-6.9596 272.14913,-0.7885 33.00068,6.1713 82.63461,20.1561 98.12535,51.5955 15.49075,31.4394 15.61725,93.8074 -0.1873,115.5658 -16.30957,22.4538 -38.65623,33.0552 -149.50038,40.2896 -110.84416,7.2341 -265.73844,-0.8356 -291.29698,-29.667 -25.55857,-28.8313 -28.35074,-40.3779 -28.58585,-78.8983 z"
+       d="m 197.45751,1757.4549 c 2.7936,-54.3033 49.7361,-72.8556 99.29603,-83.668 49.55996,-10.8121 239.14847,-5.9359 272.14913,-0.6725 33.00068,5.2636 82.63461,17.1913 98.12535,44.0063 15.49075,26.815 15.61725,80.0092 -0.1873,98.5671 -16.30957,19.1511 -38.65623,28.1931 -149.50038,34.3634 -110.84416,6.17 -265.73844,-0.7127 -291.29698,-25.3033 -25.55857,-24.5904 -28.35074,-34.4386 -28.58585,-67.293 z"
        id="path3286-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzsszzc" />
@@ -297,7 +297,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 154.04651,1575.6451 c 1.93146,-52.9482 34.38693,-71.0376 68.65207,-81.5801 34.26515,-10.5423 165.34434,-5.7878 188.1606,-0.6557 22.81627,5.1322 57.13256,16.7623 67.84267,42.9081 10.71012,26.1458 10.79758,78.0127 -0.12949,96.1076 -11.27624,18.6731 -26.72645,27.4895 -103.36275,33.5058 -76.6363,6.0161 -183.72833,-0.6949 -201.39919,-24.6718 -17.67089,-23.9769 -19.60136,-33.5793 -19.76391,-65.6139 z"
+       d="m 156.03902,1599.5552 c 1.93146,-52.9482 34.38693,-71.0376 68.65207,-81.5801 34.26515,-10.5423 165.34434,-5.7878 188.1606,-0.6557 22.81627,5.1322 57.13256,16.7623 67.84267,42.9081 10.71012,26.1458 10.79758,78.0127 -0.12949,96.1076 -11.27624,18.6731 -26.72645,27.4895 -103.36275,33.5058 -76.6363,6.0161 -183.72833,-0.6949 -201.39919,-24.6718 -17.67089,-23.9769 -19.60136,-33.5793 -19.76391,-65.6139 z"
        id="path3286"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzsszzc" />
@@ -321,7 +321,7 @@
        sodipodi:nodetypes="cccccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1887.6643,1164.4808 c 38.4016,-63.8314 255.0419,-66.0449 327.6918,-41.501 72.6494,24.5435 103.6447,39.2465 107.6296,94.2339 2.2012,30.3745 -2.9271,93.3602 -39.4463,109.6744 -36.5192,16.3142 -145.2988,19.8909 -182.1566,21.175 -36.8578,1.2844 -154.7312,-4.1826 -184.9999,-25.1414 -28.955,-20.0494 -67.1204,-94.6098 -28.7186,-158.4409 z"
+       d="m 1887.6643,1152.5258 c 38.4016,-63.8314 255.0419,-66.0449 327.6918,-41.501 72.6494,24.5435 103.6447,39.2465 107.6296,94.2339 2.2012,30.3745 -2.9271,93.3602 -39.4463,109.6744 -36.5192,16.3142 -145.2988,19.8909 -182.1566,21.175 -36.8578,1.2844 -154.7312,-4.1826 -184.9999,-25.1414 -28.955,-20.0494 -67.1204,-94.6098 -28.7186,-158.4409 z"
        id="path3330"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -368,19 +368,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="325.52966"
-       y="1551.2036"
+       x="327.52216"
+       y="1585.0762"
        id="text4246-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="325.52966"
-         y="1551.2036"
+         x="327.52216"
+         y="1585.0762"
          id="tspan4152-7">Nou, geen</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="325.52966"
-         y="1607.4536"
+         x="327.52216"
+         y="1641.3262"
          id="tspan4198">paniek...!</tspan></text>
     <text
        xml:space="preserve"
@@ -431,7 +431,7 @@
          sodipodi:role="line"
          id="tspan4138"
          x="1367.1063"
-         y="691.71692">Sssjjj</tspan></text>
+         y="691.71692">Tssjjj</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1145.8121,3004.3887 c -48.8266,-24.6631 -98.6378,-49.1001 -9.322,-105.5357 -83.7977,12.6957 -31.9502,-18.4527 -10.9566,-39.6288 -150.05837,38.5784 -52.1721,-28.1113 -14.5643,-69.2092 -33.6141,15.8089 -87.6939,61.5934 -66.1212,-3.4269 -31.8085,26.76 -62.84139,28.84 -57.58403,2.4478 -13.624,16.0125 -22.27143,20.0738 -21.75983,2.1409 -12.83098,13.1422 -30.40781,25.5876 -16.51467,-39.116 -42.423,78.1529 -68.00874,66.3258 -83.46992,44.4767 -17.04941,29.1513 -28.43264,31.365 -54.30023,-22.7814 -19.2506,68.2496 -50.92532,31.9883 -75.40653,-15.6446 2.7149,90.0975 -71.65842,59.2792 -106.68477,29.7891 9.53803,43.7879 -9.29316,63.0406 -68.81173,17.5406 -3.61651,17.4025 -22.0475,23.9495 -53.69767,20.8107 31.99447,22.1142 33.36927,34.1882 -41.76818,21.1751 52.12724,18.9029 100.13163,37.6795 18.23508,52.4815 23.46813,9.4963 108.78901,5.3784 11.20641,73.3166 51.78013,-15.2743 138.77705,2.9616 105.03181,53.7344 40.73282,-32.6662 83.67663,-55.1513 77.7033,17.8145 40.45712,-75.6801 61.85078,-47.7548 65.21035,-3.6181 3.1882,-34.5099 28.9167,-91.7943 71.65635,-8.2274 -8.31182,-36.1815 5.27633,-76.9575 51.80558,19.0221 19.66783,-42.3536 -5.16469,-94.2997 94.41034,-15.675 -15.21706,-72.4569 35.04386,-34.3798 70.17484,-8.8165 -16.6039,-45.6446 26.7876,-22.4894 84.431,5.4484 -43.9062,-44.2015 2.0382,-30.9628 31.0966,-28.5188 z"
@@ -487,17 +487,17 @@
     <text
        sodipodi:linespacing="125%"
        id="text4210"
-       y="1727.4451"
-       x="435.08051"
+       y="1739.4001"
+       x="443.05054"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="1727.4451"
-         x="435.08051"
+         y="1739.4001"
+         x="443.05054"
          style="font-size:45px"
          sodipodi:role="line"
          id="tspan4231">Deze queeste is</tspan><tspan
-         y="1783.6951"
-         x="435.08051"
+         y="1795.6501"
+         x="443.05054"
          style="font-size:45px"
          sodipodi:role="line"
          id="tspan4234">toch super-simpel...</tspan></text>
