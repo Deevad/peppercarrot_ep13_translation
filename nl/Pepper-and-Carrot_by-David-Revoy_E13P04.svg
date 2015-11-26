@@ -238,9 +238,9 @@
      inkscape:window-height="997"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.5018801"
-     inkscape:cx="1577.748"
-     inkscape:cy="371.00076"
+     inkscape:zoom="0.38719266"
+     inkscape:cx="1798.0515"
+     inkscape:cy="2070.744"
      inkscape:window-x="-5"
      inkscape:window-y="-10"
      inkscape:window-maximized="1"
@@ -253,11 +253,11 @@
     <image
        sodipodi:absref="/home/ruben/Documents/pepperandcarrot/peppercarrot_ep13_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -297,7 +297,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 156.03902,1599.5552 c 1.93146,-52.9482 34.38693,-71.0376 68.65207,-81.5801 34.26515,-10.5423 165.34434,-5.7878 188.1606,-0.6557 22.81627,5.1322 57.13256,16.7623 67.84267,42.9081 10.71012,26.1458 10.79758,78.0127 -0.12949,96.1076 -11.27624,18.6731 -26.72645,27.4895 -103.36275,33.5058 -76.6363,6.0161 -183.72833,-0.6949 -201.39919,-24.6718 -17.67089,-23.9769 -19.60136,-33.5793 -19.76391,-65.6139 z"
+       d="m 181.86595,1599.5552 c 1.66158,-52.9482 29.58208,-71.0376 59.05939,-81.5801 29.47731,-10.5423 142.24093,-5.7878 161.8691,-0.6557 19.62817,5.1322 49.14948,16.7623 58.36308,42.9081 9.2136,26.1458 9.28884,78.0127 -0.1114,96.1076 -9.70062,18.6731 -22.99199,27.4895 -88.91997,33.5058 -65.92799,6.0161 -158.05615,-0.6949 -173.25788,-24.6718 -15.20175,-23.9769 -16.86248,-33.5793 -17.00232,-65.6139 z"
        id="path3286"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzsszzc" />
@@ -376,12 +376,12 @@
          style="font-size:45px"
          x="327.52216"
          y="1585.0762"
-         id="tspan4152-7">Nou, geen</tspan><tspan
+         id="tspan4152-7">Oh, geen</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="327.52216"
          y="1641.3262"
-         id="tspan4198">paniek...!</tspan></text>
+         id="tspan4198">paniek!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"

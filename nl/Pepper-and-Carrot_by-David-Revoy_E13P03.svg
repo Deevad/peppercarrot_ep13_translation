@@ -163,9 +163,9 @@
      inkscape:window-height="997"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.43641748"
-     inkscape:cx="1552.5187"
-     inkscape:cy="2613.2254"
+     inkscape:zoom="0.51950101"
+     inkscape:cx="1252.1152"
+     inkscape:cy="963.70488"
      inkscape:window-x="-5"
      inkscape:window-y="-10"
      inkscape:window-maximized="1"
@@ -200,13 +200,13 @@
        sodipodi:nodetypes="csssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter4386);enable-background:accumulate"
-       d="m 1503.1971,486.30966 c 4.3301,49.88168 -35.723,56.1972 -99.8019,62.78734 -34.4032,0.39696 -220.1936,3.44393 -280.3193,-4.36277 -47.1152,-6.11742 -84.6031,-18.89955 -84.9984,-44.84403 -1.0837,-71.12506 177.9448,-67.23814 253.861,-66.88217 108.5287,0.5089 209.0534,13.3897 211.2586,53.30163 z"
+       d="m 1525.3146,485.3472 c 4.5897,49.88168 -37.8653,56.1972 -105.7868,62.78734 -36.4663,0.39696 -233.398,3.44393 -297.1293,-4.36277 -49.9406,-6.11742 -89.6765,-18.89955 -90.0955,-44.84403 -1.1487,-71.12506 188.6157,-67.23814 269.0843,-66.88217 115.0369,0.5089 221.5898,13.3897 223.9273,53.30163 z"
        id="path3145-9-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter4386);enable-background:accumulate"
-       d="m 1254.2323,358.62817 c 4.05,86.87237 -33.4116,97.87129 -93.3442,109.34846 -57.3916,1.23307 -237.9686,17.14827 -238.8101,-85.69702 -1.0138,-123.86915 104.2805,-117.09983 175.2845,-116.47988 101.5064,0.88628 154.8074,23.31908 156.8698,92.82844 z"
+       d="m 1267.5737,358.62817 c 4.3757,86.87237 -36.098,97.87129 -100.8493,109.34846 -62.0061,1.23307 -257.1021,17.14827 -258.01126,-85.69702 -1.09531,-123.86915 112.66496,-117.09983 189.37796,-116.47988 109.6678,0.88628 167.2544,23.31908 169.4826,92.82844 z"
        id="path3145-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccssc" />
@@ -257,12 +257,12 @@
          style="font-size:45px"
          x="1088.0822"
          y="353.26379"
-         id="tspan4251">ik vind het</tspan><tspan
+         id="tspan4251">ik merk dat ik</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1088.0822"
          y="409.51379"
-         id="tspan4279">vaak zo...</tspan></text>
+         id="tspan4279">het vaak zo...</tspan></text>
     <path
        style="fill:#ffffff;stroke:none"
        d="m 463.78189,1770.8321 c 4.18587,-61.0006 25.81101,-113.1592 208.96186,-113.2074 192.34396,-0.051 228.07612,32.5191 230.07065,114.8122 2.81466,116.1317 -105.59415,110.7269 -219.22218,111.0215 -159.16826,0.4127 -218.87053,0.5102 -219.81033,-112.6263 z"
@@ -406,7 +406,7 @@
          id="tspan4250">gezeur...</tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 1584.2022,2021.5215 c -0.9264,-119.7052 114.6232,-117.8005 223.8329,-113.3936 109.1161,4.4029 240.4604,-12.9118 236.1049,128.69 -2.1776,70.8007 -98.318,90.394 -231.2546,90.3418 -177.1653,-0.071 -228.22,-45.7855 -228.6832,-105.6382 z"
+       d="m 1596.4521,2052.3477 c -0.8907,-160.3504 110.2145,-157.7989 215.2238,-151.8956 104.9192,5.8978 231.2116,-17.2961 227.0236,172.3859 -2.0938,94.8407 -94.5364,121.0868 -222.3599,121.0169 -170.3511,-0.095 -219.442,-61.3317 -219.8875,-141.5072 z"
        id="path3238-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss" />
@@ -421,17 +421,22 @@
          style="font-size:45px"
          x="1816.2515"
          y="1968.7274"
-         id="tspan4351">Dat zouden mijn</tspan><tspan
+         id="tspan4351">Het klinkt als</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1816.2515"
          y="2024.9774"
-         id="tspan4257">peettantes ook</tspan><tspan
+         id="tspan3415">iets wat mijn</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1824.1616"
+         y="2081.2275"
+         id="tspan4257">peettantes ook </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1816.2515"
-         y="2081.2275"
-         id="tspan4259">kunnen zeggen!</tspan></text>
+         y="2137.4775"
+         id="tspan4259">zouden zeggen!</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1979.3673,2645.2287 c -6.3053,-24.3593 10.509,-89.0635 139.7698,-83.7349 129.2607,5.3285 150.2788,35.7776 153.4315,44.9123 3.1527,9.1347 30.4761,60.8981 -70.4104,74.6003 -100.8865,13.702 -191.2638,-0.7613 -222.7909,-35.7777 z"
@@ -487,7 +492,7 @@
          style="font-size:45px"
          x="1285.0151"
          y="506.20026"
-         id="tspan4291">... &quot;gewoontjes&quot;?...</tspan></text>
+         id="tspan4291">... &quot;normaal&quot; vind?...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
