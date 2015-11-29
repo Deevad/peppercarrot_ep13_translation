@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E13P05.svg">
@@ -139,15 +139,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="832"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.4"
-     inkscape:cx="1106.8739"
-     inkscape:cy="738.53278"
-     inkscape:window-x="1280"
-     inkscape:window-y="0"
+     inkscape:zoom="0.43641747"
+     inkscape:cx="1772.4085"
+     inkscape:cy="496.58248"
+     inkscape:window-x="-5"
+     inkscape:window-y="-10"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -156,13 +156,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/willem/Git/peppercarrot_ep13_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P05.png"
+       sodipodi:absref="/home/ruben/Documents/pepperandcarrot/peppercarrot_ep13_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -288,7 +288,7 @@
          x="679.4245"
          style="font-size:47.60832977px;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:role="line"
-         id="tspan4552">Laat dat!</tspan><tspan
+         id="tspan4552">Laat los!</tspan><tspan
          y="3146.9482"
          x="679.4245"
          style="font-size:47.60832977px;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -337,7 +337,7 @@
          style="font-size:45px"
          x="315.8573"
          y="190.96432"
-         id="tspan4233">... o nee!</tspan><tspan
+         id="tspan4233">... oh nee!</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="315.8573"
@@ -442,18 +442,18 @@
     <text
        sodipodi:linespacing="125%"
        id="text4437"
-       y="1021.8353"
-       x="2742.3853"
+       y="1026.1865"
+       x="2744.0037"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2883625px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.89999998;stroke-miterlimit:4;stroke-dasharray:none"
        xml:space="preserve"
-       transform="matrix(0.89515691,0,-0.33294841,1.1171226,0,0)"><tspan
-         y="1021.8353"
-         x="2742.3853"
+       transform="matrix(0.8951569,0,-0.33294841,1.1171226,0,0)"><tspan
+         y="1026.1865"
+         x="2744.0037"
          style="font-size:44.83135986px;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:2.4206574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:role="line"
          id="tspan4232"> DAT ZETTEN WE JE</tspan><tspan
-         y="1089.5073"
-         x="2742.3853"
+         y="1093.8585"
+         x="2744.0037"
          style="font-size:57.33135986px;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:2.4206574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:role="line"
          id="tspan4241">    BETAALD! ...</tspan></text>
