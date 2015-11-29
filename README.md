@@ -19,6 +19,7 @@ License
 * Italian: Carlo Gandolfi, Antonio Parisi
 * Mexicano: RJ Quiralta
 * Russian: Denis "uncle Night" Prisukhin
+* Swedish: Mikael Olofsson
 * Ukrainian: Denis "uncle Night" Prisukhin
 
 
