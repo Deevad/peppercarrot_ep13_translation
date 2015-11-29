@@ -16,6 +16,7 @@ License
 * Chinese: Ran Zhuang
 * English: Alex Gryson
 * French: David Revoy
+* Italian: Carlo Gandolfi, Antonio Parisi
 * Mexicano: RJ Quiralta
 * Russian: Denis "uncle Night" Prisukhin
 * Ukrainian: Denis "uncle Night" Prisukhin
