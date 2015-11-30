@@ -165,7 +165,7 @@
      showgrid="false"
      inkscape:zoom="0.40000001"
      inkscape:cx="1242.4741"
-     inkscape:cy="2684.676"
+     inkscape:cy="1984.676"
      inkscape:window-x="2437"
      inkscape:window-y="58"
      inkscape:window-maximized="0"
@@ -178,11 +178,11 @@
     <image
        sodipodi:absref="C:\work\git\peppercarrot_ep13_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P03.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -200,7 +200,7 @@
        sodipodi:nodetypes="csssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter4386);enable-background:accumulate"
-       d="m 1459.6608,486.30966 c 4.3301,49.88168 -35.723,56.1972 -99.8019,62.78734 -34.4032,0.39696 -110.2072,3.44393 -170.3329,-4.36277 -47.1152,-6.11742 -84.6031,-18.89955 -84.9984,-44.84403 -1.0837,-71.12506 111.4947,-67.23814 187.4109,-66.88217 108.5287,0.5089 165.5171,13.3897 167.7223,53.30163 z"
+       d="m 1514.5732,486.30966 c 5.5179,49.88168 -45.5215,56.1972 -127.1767,62.78734 -43.8398,0.39696 -140.4363,3.44393 -217.054,-4.36277 -60.0385,-6.11742 -107.809,-18.89955 -108.3128,-44.84403 -1.3809,-71.12506 142.0769,-67.23814 238.8163,-66.88217 138.2972,0.5089 210.9172,13.3897 213.7272,53.30163 z"
        id="path3145-9-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsssc" />
@@ -456,17 +456,17 @@
     <text
        sodipodi:linespacing="125%"
        id="text4202"
-       y="198.26379"
-       x="793.20715"
+       y="202.26379"
+       x="789.20715"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="198.26379"
-         x="793.20715"
+         y="202.26379"
+         x="789.20715"
          style="font-size:45px"
          sodipodi:role="line"
-         id="tspan3653">Es ist schön</tspan><tspan
-         y="254.51379"
-         x="793.20715"
+         id="tspan3653">Es ist nicht schön</tspan><tspan
+         y="258.51379"
+         x="789.20715"
          style="font-size:45px"
          sodipodi:role="line"
          id="tspan3416">sich manchmal ...</tspan></text>
@@ -481,7 +481,7 @@
          style="font-size:45px"
          x="1285.0151"
          y="506.20026"
-         id="tspan4291">... &quot;banal&quot; ist ?</tspan></text>
+         id="tspan4291">... &quot;gewöhnlich&quot; ist ?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
