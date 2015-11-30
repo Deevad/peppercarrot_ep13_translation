@@ -18,6 +18,7 @@ License
 * French: David Revoy
 * Italian: Carlo Gandolfi, Antonio Parisi
 * Mexicano: RJ Quiralta
+* Polish: Sölve Svartskogen
 * Russian: Denis "uncle Night" Prisukhin
 * Swedish: Mikael Olofsson
 * Ukrainian: Denis "uncle Night" Prisukhin
