@@ -21,6 +21,7 @@ License
 * Russian: Denis "uncle Night" Prisukhin
 * Swedish: Mikael Olofsson
 * Ukrainian: Denis "uncle Night" Prisukhin
+* German: Philipp Hemmer
 
 
 ## Artwork:
