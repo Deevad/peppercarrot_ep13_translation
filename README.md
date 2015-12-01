@@ -17,6 +17,7 @@ License
 * Dutch: Willem Sonke and Midgard
 * English: Alex Gryson
 * French: David Revoy
+* Hungarian: Halász Gábor "Hali"
 * Italian: Carlo Gandolfi, Antonio Parisi
 * Mexicano: RJ Quiralta
 * Polish: Sölve Svartskogen
