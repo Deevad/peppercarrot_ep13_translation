@@ -14,6 +14,7 @@ License
 ## Translators and correctors:
 
 * Chinese: Ran Zhuang
+* Dutch: Willem Sonke and Midgard
 * English: Alex Gryson
 * French: David Revoy
 * Italian: Carlo Gandolfi, Antonio Parisi
