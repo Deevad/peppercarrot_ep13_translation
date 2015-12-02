@@ -588,8 +588,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4"
-     inkscape:cx="883.23913"
-     inkscape:cy="687.76899"
+     inkscape:cx="1103.7627"
+     inkscape:cy="2700.2331"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -602,11 +602,11 @@
     <image
        sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep13_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -680,7 +680,7 @@
          style="font-size:45px"
          x="548.77625"
          y="301.61823"
-         id="tspan3503">ilyesztett meg túlságosan</tspan><tspan
+         id="tspan3503">ijesztett meg túlságosan</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="548.77625"
