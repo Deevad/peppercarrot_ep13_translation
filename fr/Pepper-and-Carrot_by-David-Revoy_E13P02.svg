@@ -588,8 +588,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.529"
-     inkscape:cx="1197.7818"
-     inkscape:cy="682.13761"
+     inkscape:cx="559.87599"
+     inkscape:cy="663.80524"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -600,13 +600,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep13_The-Pyjama-Party/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -618,7 +618,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 134.04031,2749.2524 c 9.0615,-57.2493 94.2941,-98.78 311.2823,-87.024 116.2306,6.297 248.3196,10.679 236.3961,94.551 -11.9234,83.872 -201.9077,80.8585 -241.2232,82.644 -39.3155,1.7855 -243.3352,-7.9348 -277.9527,-36.6394 -21.6701,-17.9683 -29.8404,-35.7947 -28.5025,-53.5316 z"
+       d="m 134.04637,2749.2524 c 9.45428,-57.2493 98.38132,-98.78 324.77497,-87.024 121.26866,6.297 259.08311,10.679 246.64279,94.551 -12.44023,83.872 -210.65948,80.8585 -251.67913,82.644 -41.01964,1.7855 -253.88267,-7.9348 -290.00068,-36.6394 -22.6094,-17.9683 -31.13384,-35.7947 -29.73795,-53.5316 z"
        id="path4546-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -697,12 +697,12 @@
          style="font-size:45px"
          x="2059.8596"
          y="2367.9304"
-         id="tspan4445">Non, t'inquiètes pas;</tspan><tspan
+         id="tspan4445">Non, t'inquiète pas;</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2067.7698"
          y="2424.1804"
-         id="tspan4209">ils sont super acceuillants, </tspan><tspan
+         id="tspan4209">ils sont super accueillants, </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2059.8596"
@@ -774,7 +774,7 @@
          x="420.4519"
          style="font-size:45px"
          sodipodi:role="line"
-         id="tspan4535">Moi je suis impressionée</tspan><tspan
+         id="tspan4535">Moi je suis impressionnée</tspan><tspan
          y="2797.9707"
          x="420.4519"
          style="font-size:45px"

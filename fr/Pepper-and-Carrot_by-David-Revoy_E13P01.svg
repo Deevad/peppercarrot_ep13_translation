@@ -43,9 +43,9 @@
      inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.34782609"
-     inkscape:cx="1646.6827"
-     inkscape:cy="2227.5575"
+     inkscape:zoom="0.529"
+     inkscape:cx="1849.5653"
+     inkscape:cy="396.45846"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P01.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep13_The-Pyjama-Party/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -160,7 +160,7 @@
          sodipodi:role="line"
          x="2163.6572"
          y="3321.6111"
-         id="tspan4177">acceuillir chez-toi</tspan><tspan
+         id="tspan4177">accueillir chez-toi</tspan><tspan
          sodipodi:role="line"
          x="2163.6572"
          y="3377.8611"

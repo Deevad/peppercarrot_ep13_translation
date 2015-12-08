@@ -238,9 +238,9 @@
      inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46000001"
-     inkscape:cx="1200.4862"
-     inkscape:cy="980.28063"
+     inkscape:zoom="0.52900001"
+     inkscape:cx="1724.3522"
+     inkscape:cy="1490.2826"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -251,13 +251,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep13_The-Pyjama-Party/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -281,12 +281,12 @@
        sodipodi:nodetypes="ccccccccccccccccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1868.3474,1924.1189 c 54.3098,-48.3252 137.7616,34.2953 137.7616,34.2953 l -23.8433,15.5888 c 0,0 -66.2317,-63.914 -113.9183,-49.8841 z"
+       d="m 1860.786,1912.7767 c 54.3098,-48.3252 137.7616,34.2953 137.7616,34.2953 l -23.8433,15.5888 c 0,0 -66.2317,-63.914 -113.9183,-49.8841 z"
        id="path3581"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1919.2809,1954.7428 c 3.6668,-37.8654 18.9677,-69.5074 61.388,-83.7107 42.4203,-14.2033 69.7057,-16.1921 128.0649,-15.5033 58.3591,0.6886 173.1123,-4.4241 209.8717,25.5154 36.7595,29.9396 40.4149,33.9219 45.1648,55.7394 1.1973,39.9746 -17.2214,83.0581 -53.0651,92.3298 -35.8438,9.2716 -67.4645,10.6812 -98.9008,12.9646 -31.4364,2.2833 -75.2433,1.4179 -114.491,-3.0374 -39.2476,-4.4554 -80.7697,-4.1103 -122.8326,-13.5736 -42.0627,-9.4632 -57.1624,-46.0611 -55.1999,-70.7242 z"
+       d="m 1906.0534,1954.7428 c 3.7759,-37.8654 19.5321,-69.5074 63.2146,-83.7107 43.6825,-14.2033 71.7798,-16.1921 131.8755,-15.5033 60.0956,0.6886 178.2633,-4.4241 216.1165,25.5154 37.8533,29.9396 41.6174,33.9219 46.5087,55.7394 1.2329,39.9746 -17.7339,83.0581 -54.6441,92.3298 -36.9103,9.2716 -69.4719,10.6812 -101.8436,12.9646 -32.3718,2.2833 -77.4822,1.4179 -117.8977,-3.0374 -40.4155,-4.4554 -83.1731,-4.1103 -126.4875,-13.5736 -43.3143,-9.4632 -58.8633,-46.0611 -56.8424,-70.7242 z"
        id="path3278"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzzczzzzc" />
@@ -385,19 +385,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2141.0076"
-       y="1929.9561"
+       x="2139.1279"
+       y="1935.5951"
        id="text4246-9-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2141.0076"
-         y="1929.9561"
-         id="tspan4198-7">...et on a même</tspan><tspan
+         x="2139.1279"
+         y="1935.5951"
+         id="tspan4198-7">...et on n'a même</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2141.0076"
-         y="1986.2061"
+         x="2139.1279"
+         y="1991.8451"
          id="tspan4233">pas commencé à...</tspan></text>
     <text
        xml:space="preserve"
