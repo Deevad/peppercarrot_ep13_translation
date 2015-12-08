@@ -44,7 +44,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.48"
-     inkscape:cx="979.82423"
+     inkscape:cx="943.3659"
      inkscape:cy="294.20934"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -66,15 +66,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/bonaditya/DATA/PEPPERCARROT/peppercarrot_ep13_translation-master/id/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/id/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P07.png"
-       width="2481.4438"
-       height="4504.5391"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image4223"
+       y="-1023.3771"
        x="0.54707891"
-       y="-1023.3771" />
+       id="image4223"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="4504.5391"
+       width="2481.4438" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -125,25 +125,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29317284px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1199.7443"
+       x="1370.5776"
        y="2904.1709"
        id="text4221"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4223"
-         x="1199.7443"
+         x="1370.5776"
          y="2904.1709"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.25px;font-family:Lavi;-inkscape-font-specification:Lavi">Anda dapat menjadi donatur Pepper&amp;Carrot untuk episode selanjutnya:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.84348011px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#a72f14;fill-opacity:1;stroke:none"
-       x="1210.4685"
+       x="1381.3019"
        y="2981.8181"
        id="text4225"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4227"
-         x="1210.4685"
+         x="1381.3019"
          y="2981.8181"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:Lavi;-inkscape-font-specification:Lavi">http://www.patreon.com/davidrevoy</tspan></text>
     <text
