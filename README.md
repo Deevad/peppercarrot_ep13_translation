@@ -49,7 +49,7 @@ License
 
 * Swedish: Mikael Olofsson
 
-* Ukrainian: Denis "uncle Night" Prisukhin
+* Ukrainian: Denis "uncle Night" Prisukhin, title-art: Leonid Androschuk
 
 
 ## Artwork:
