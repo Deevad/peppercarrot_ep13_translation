@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E13P03.svg">
@@ -163,9 +163,9 @@
      inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000001"
-     inkscape:cx="1154.215"
-     inkscape:cy="1356.7068"
+     inkscape:zoom="0.46000001"
+     inkscape:cx="1152.1529"
+     inkscape:cy="2696.177"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -176,13 +176,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Desktop\Krita\Pepper&amp;Carrot\peppercarrot_ep13_translation-master\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P03.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -194,7 +194,7 @@
      inkscape:label="txt">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 618.34207,1926.5781 c 2.05069,-31.3913 12.64501,-58.2325 102.37201,-58.2573 94.23079,-0.026 111.73626,16.7345 112.71335,59.0831 1.37897,59.7622 -51.73136,56.9808 -107.3986,57.1324 -77.97774,0.2124 -107.22635,0.2626 -107.68676,-57.9582 z"
+       d="m 608.47933,1926.5781 c 2.30141,-31.3913 14.19105,-58.2325 114.88853,-58.2573 105.75193,-0.026 125.39771,16.7345 126.49427,59.0831 1.54756,59.7622 -58.05631,56.9808 -120.52971,57.1324 -87.51169,0.2124 -120.33639,0.2626 -120.85309,-57.9582 z"
        id="path3280-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -206,7 +206,7 @@
        sodipodi:nodetypes="ccsssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter4386);enable-background:accumulate"
-       d="m 1254.2188,335.51785 c 4.2328,104.96854 -34.919,118.25862 -97.5557,132.12657 -59.981,1.48992 -248.7053,20.72038 -249.58477,-103.54835 -1.05954,-149.67202 108.98547,-141.4926 183.19297,-140.74351 106.0862,1.0709 161.7921,28.17661 163.9475,112.16529 z"
+       d="m 1284.6067,335.51785 c 4.8684,104.96854 -40.1624,118.25862 -112.2045,132.12657 -68.9875,1.48992 -286.05033,20.72038 -287.06185,-103.54835 -1.21865,-149.67202 125.35045,-141.4926 210.70085,-140.74351 122.0159,1.0709 186.0865,28.17661 188.5655,112.16529 z"
        id="path3145-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccssc" />
@@ -242,7 +242,7 @@
        sodipodi:nodetypes="ccccsccscccsc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter4386);enable-background:accumulate"
-       d="m 567.03829,223.65636 c -3.92397,-75.40057 45.97615,-84.59565 125.70614,-93.99768 76.18658,-0.53863 316.10157,-12.67433 315.50067,76.55328 -0.7233,107.46773 -140.3496,100.6209 -234.57074,99.42605 -134.6973,-1.70815 -205.05996,-21.66216 -206.63607,-81.98165 z"
+       d="m 530.08177,219.30853 c -3.92397,-75.40057 45.97615,-84.59565 125.70614,-93.99768 76.18658,-0.53863 316.10157,-12.67433 315.50067,76.55328 -0.7233,107.46773 -140.3496,100.6209 -234.57074,99.42605 -134.6973,-1.70815 -205.05996,-21.66216 -206.63607,-81.98165 z"
        id="path3145"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccssc" />
@@ -321,7 +321,7 @@
          id="tspan3496">してはいけない」</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1737.8653,1698.7725 c 25.4214,-33.1688 163.6905,-30.3372 209.6953,-15.9669 46.0045,14.3701 63.1225,39.1187 65.2622,47.9005 2.1396,8.7818 -3.2096,49.4974 -26.7469,57.4809 -23.5372,7.9834 -90.9392,11.9751 -114.4764,11.9751 -23.5372,0 -98.6732,-5.0814 -117.6863,-16.7653 -18.1878,-11.1768 -41.4693,-51.4559 -16.0479,-84.6243 z"
+       d="m 1709.9111,1698.7725 c 30.6194,-33.1688 197.1608,-30.3372 252.5724,-15.9669 55.4111,14.3701 76.0293,39.1187 78.6065,47.9005 2.5771,8.7818 -3.8658,49.4974 -32.2159,57.4809 -28.3499,7.9834 -109.5339,11.9751 -137.8837,11.9751 -28.3499,0 -118.8493,-5.0814 -141.75,-16.7653 -21.9067,-11.1768 -49.9486,-51.4559 -19.3293,-84.6243 z"
        id="path3330"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -385,14 +385,18 @@
     <text
        sodipodi:linespacing="125%"
        id="text4202"
-       y="198.26379"
-       x="793.20715"
-       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';writing-mode:lr;"
+       y="193.91597"
+       x="756.25061"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         id="tspan3486">そう言われてみると</tspan><tspan
+         id="tspan3486"
+         x="756.25061"
+         y="193.91597">そう言われてみると</tspan><tspan
          sodipodi:role="line"
-         id="tspan3488">うれしいの ...</tspan></text>
+         id="tspan3488"
+         x="756.25061"
+         y="250.16597">うれしいの ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"

@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E13P02.svg">
@@ -587,9 +587,9 @@
      inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.4"
-     inkscape:cx="1118.1439"
-     inkscape:cy="1603.1488"
+     inkscape:zoom="0.30245747"
+     inkscape:cx="1311.1566"
+     inkscape:cy="940.03429"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -600,13 +600,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Desktop\Krita\Pepper&amp;Carrot\peppercarrot_ep13_translation-master\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -618,7 +618,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 64.282719,2744.8439 c 11.007205,-69.1946 31.024521,-91.9735 378.121061,-105.1821 141.2828,-5.3765 266.47414,19.7617 251.99043,121.1341 -14.48361,101.3724 -210.09665,83.6239 -257.85399,85.7819 -47.75736,2.1581 -295.58432,-2.3385 -337.634925,-37.0325 -26.323114,-21.7175 -36.247746,-43.2635 -34.622576,-64.7014 z"
+       d="m 64.289736,2735.9945 c 11.461961,-63.4105 32.30628,-84.2852 393.742894,-96.3897 147.11981,-4.9271 277.48336,18.1098 262.40126,111.0083 -15.08199,92.8985 -218.77666,76.6336 -268.50707,78.6112 -49.73042,1.9777 -307.7962,-2.143 -351.5841,-33.9369 -27.410634,-19.9021 -37.745296,-39.647 -36.052984,-59.2929 z"
        id="path4546-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -636,7 +636,7 @@
        sodipodi:nodetypes="cssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 95.056476,195.36599 c -1.299369,-24.34525 29.731594,-45.01758 42.726434,-52.80801 12.99497,-7.79054 94.86291,-25.31911 124.75141,-25.31911 29.88789,0 160.97967,7.92107 183.07094,25.44974 22.09141,17.52858 43.03974,27.13609 28.74541,56.3504 -14.29434,29.21432 -98.22885,35.58652 -117.72093,38.5079 -19.49253,2.92146 -88.29979,0.77755 -106.49267,-0.19621 -18.19273,-0.97385 -158.978841,-2.0584 -155.080594,-41.98471 z"
+       d="M 46.470164,164.21622 C 44.962847,138.4423 80.959899,116.55683 96.034382,108.30923 111.10902,100.06151 206.07883,81.504288 240.75059,81.504288 c 34.67104,0 186.74229,8.38591 212.36897,26.943242 25.62685,18.55722 49.92768,28.72854 33.34574,59.65726 -16.58196,30.92873 -113.94907,37.67488 -136.56059,40.76769 -22.61204,3.09291 -102.43098,0.82318 -123.53539,-0.20772 -21.10423,-1.031 -184.421266,-2.17919 -179.899156,-44.44854 z"
        id="path3357"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssc" />
@@ -654,13 +654,15 @@
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
-       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';writing-mode:lr;"
-       x="280.64941"
-       y="194.43243"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="283.50818"
+       y="164.41539"
        id="text4246-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3481">どういたしまして!</tspan></text>
+         id="tspan3481"
+         x="283.50818"
+         y="164.41539">どういたしまして!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';writing-mode:lr;"
@@ -689,7 +691,7 @@
          id="tspan3465">家みたいに落ちついてる</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 872.93207,2929.6937 c -102.2493,-4.317 -252.40542,-20.8928 -282.00152,-55.6712 -29.5961,-34.7785 -23.60287,-78.6724 35.61893,-98.8918 59.22143,-20.2185 161.05579,-38.1599 249.69946,-32.9348 88.64369,5.2256 204.84636,27.3026 232.69976,59.9513 27.8537,32.648 3.6295,103.3705 -110.1751,118.6063 -113.80449,15.2359 -125.84153,8.9402 -125.84153,8.9402 z"
+       d="m 903.36686,2927.5788 c -102.2493,-4.1191 -252.40542,-19.9351 -282.00152,-53.1193 -29.5961,-33.1843 -23.60287,-75.0662 35.61893,-94.3588 59.22143,-19.2917 161.05579,-36.4107 249.69946,-31.4251 88.64373,4.9861 204.84647,26.0511 232.69987,57.2032 27.8537,31.1515 3.6295,98.6322 -110.1751,113.1696 -113.8046,14.5375 -125.84164,8.5304 -125.84164,8.5304 z"
        id="path3970"
        inkscape:connector-curvature="0" />
     <path
@@ -700,18 +702,22 @@
        sodipodi:nodetypes="ccsc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;writing-mode:lr;"
-       x="846.40686"
-       y="2825.2639"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="883.36334"
+       y="2829.6116"
        id="text4246-5-1-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3507">... 洗練されているけど</tspan><tspan
+         id="tspan3507"
+         x="883.36334"
+         y="2829.6116">... 洗練されているけど</tspan><tspan
          sodipodi:role="line"
-         id="tspan3509">居心地も良いから!</tspan></text>
+         id="tspan3509"
+         x="883.36334"
+         y="2885.8616">居心地も良いから!</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1830.46,2889.4391 c -68.2832,-2.6315 -168.5591,-12.7352 -188.3238,-33.9345 -19.7644,-21.1994 -15.7621,-47.9551 23.7867,-60.2798 39.5488,-12.3244 107.5549,-23.2607 166.7521,-20.0756 59.1971,3.1852 136.7986,16.6425 155.3992,36.5434 18.6009,19.9009 2.4238,63.01 -73.5761,72.297 -75.9997,9.2871 -84.0381,5.4495 -84.0381,5.4495 z"
+       d="m 1819.3823,2889.4391 c -54.8465,-2.6315 -135.3903,-12.7352 -151.2657,-33.9345 -15.8752,-21.1994 -12.6606,-47.9551 19.106,-60.2798 31.7664,-12.3244 86.3903,-23.2607 133.9388,-20.0756 47.5484,3.1852 109.8796,16.6425 124.82,36.5434 14.9407,19.9009 1.9469,63.01 -59.0979,72.297 -61.0446,9.2871 -67.5012,5.4495 -67.5012,5.4495 z"
        id="path3970-3"
        inkscape:connector-curvature="0" />
     <text
@@ -732,13 +738,17 @@
        sodipodi:linespacing="125%"
        id="text4529"
        y="2735.7207"
-       x="386.4519"
-       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';writing-mode:lr;"
+       x="410.36496"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         id="tspan3501">私、ここのインテリア装飾に</tspan><tspan
+         id="tspan3501"
+         x="410.36496"
+         y="2735.7207">私、ここのインテリア装飾に</tspan><tspan
          sodipodi:role="line"
-         id="tspan3503">とても感動しているの...</tspan></text>
+         id="tspan3503"
+         x="410.36496"
+         y="2791.9707">とても感動しているの...</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:89.99941378px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4238);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;text-anchor:start;text-align:start;writing-mode:lr;"

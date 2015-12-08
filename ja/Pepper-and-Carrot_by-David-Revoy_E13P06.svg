@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E13P06.svg">
@@ -151,9 +151,9 @@
      inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.49190037"
-     inkscape:cx="1204.7028"
-     inkscape:cy="2752.5446"
+     inkscape:zoom="0.24456142"
+     inkscape:cx="1507.1267"
+     inkscape:cy="1001.32"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -164,13 +164,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Desktop\Krita\Pepper&amp;Carrot\peppercarrot_ep13_translation-master\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P06.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -188,14 +188,16 @@
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.00410189px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.90000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4375-5-4-9);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.0041008px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.90000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4375-5-4-9);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        x="1367.1063"
        y="691.71692"
        id="text4136"
        sodipodi:linespacing="125%"
-       transform="matrix(0.6322045,0.15033006,0,0.79645319,201.11125,-80.537932)"><tspan
+       transform="matrix(0.6322045,0.15033006,0,0.79645319,194.959,-84.932395)"><tspan
          sodipodi:role="line"
-         id="tspan3401">ポトッ</tspan></text>
+         id="tspan3401"
+         x="1367.1063"
+         y="691.71692">ポトッ</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
@@ -210,7 +212,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-size:32.96999931px;writing-mode:lr;line-height:125%;" /></flowRegion><flowPara
          id="flowPara3389">11/2015 - Art &amp; Scenario: David Revoy    Translation: guruguru</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1777.3427,1434.9917 c 28.6957,-19.9015 233.3735,-38.9633 291.4703,12.2046 48.4927,42.7087 45.3811,126.3791 0.9689,157.8253 -45.2464,32.0367 -217.6732,20.7215 -284.3169,5.3796 -62.7572,-14.4472 -61.6217,-49.367 -59.91,-110.2337 0.6986,-24.8418 23.0922,-45.2745 51.7877,-65.1758 z"
+       d="m 1767.8454,1421.3561 c 31.7749,-21.3256 258.4168,-41.7514 322.7479,13.0779 53.6964,45.7649 50.251,135.4225 1.0729,169.1189 -50.1018,34.3291 -241.0317,22.2042 -314.827,5.7645 -69.4917,-15.481 -68.2343,-52.8995 -66.3389,-118.1217 0.7736,-26.6194 25.5702,-48.5142 57.3451,-69.8396 z"
        id="path4040-4-5-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
