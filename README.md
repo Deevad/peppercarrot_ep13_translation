@@ -13,18 +13,43 @@ License
 
 ## Translators and correctors:
 
+* Català: Juan José Segura
+
 * Chinese: Ran Zhuang
+
 * Dutch: Willem Sonke and Midgard
+
 * English: Alex Gryson
+
+* Finnish: Kari Lehto
+
+* Esperanto: Kaoseto, libre fan (librefan.eu.org)
+
 * French: David Revoy
-* Hungarian: Halász Gábor "Hali"
-* Italian: Carlo Gandolfi, Antonio Parisi
-* Mexicano: RJ Quiralta
-* Polish: Sölve Svartskogen
-* Russian: Denis "uncle Night" Prisukhin
-* Swedish: Mikael Olofsson
-* Ukrainian: Denis "uncle Night" Prisukhin
+
 * German: Philipp Hemmer
+
+* Polish: Sölve Svartskogen
+
+* Hungarian: Halász Gábor "Hali"
+
+* Indonesian: Bonaventura Aditya Perdana
+
+* Italian: Carlo Gandolfi, Antonio Parisi
+
+* Japanese: Guruguru
+
+* Mexicano: RJ Quiralta
+
+* Russian: Denis "uncle Night" Prisukhin
+
+* Slovak: talime
+
+* Spanish: TheFaico
+
+* Swedish: Mikael Olofsson
+
+* Ukrainian: Denis "uncle Night" Prisukhin
 
 
 ## Artwork:
