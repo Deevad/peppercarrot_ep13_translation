@@ -126,16 +126,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4290"
-       id="linearGradient4327"
-       gradientUnits="userSpaceOnUse"
-       x1="1243.5789"
-       y1="254.0174"
-       x2="1240.9818"
-       y2="421.95773"
-       gradientTransform="translate(5.7072818,-2.8536363)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4290"
        id="linearGradient4327-3"
        gradientUnits="userSpaceOnUse"
        x1="1243.5789"
@@ -290,8 +280,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1810.0918"
-     inkscape:cy="187.30351"
+     inkscape:cx="1582.9258"
+     inkscape:cy="264.5272"
      inkscape:window-x="-8"
      inkscape:window-y="22"
      inkscape:window-maximized="1"
@@ -316,12 +306,6 @@
      id="layer1"
      inkscape:label="txt"
      style="display:inline">
-    <path
-       style="fill:url(#linearGradient4327);fill-rule:nonzero;stroke:#552200;stroke-width:5.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter4268);filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 1851.3602,358.75549 16.5232,-11.15831 16.9221,12.23719 -17.6612,10.81842 z"
-       id="path4329"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2b1100;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -335,7 +319,7 @@
          x="826.34436"
          y="582.47577">Епізод 13 : Піжамна вечірка</tspan></text>
     <g
-       transform="matrix(0.95835876,0,0.01303728,0.94342369,-29400.537,1553.4803)"
+       transform="matrix(0.95835876,0,0.01303728,0.94342369,-29499.532,1553.4803)"
        inkscape:label="Layer 1"
        id="layer1-3"
        style="display:inline;opacity:1;fill:url(#linearGradient4206);fill-opacity:1;stroke:#552200;stroke-opacity:1;filter:url(#filter5363)">
