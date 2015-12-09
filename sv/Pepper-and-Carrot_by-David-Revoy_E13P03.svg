@@ -165,7 +165,7 @@
      showgrid="false"
      inkscape:zoom="0.26805595"
      inkscape:cx="863.71299"
-     inkscape:cy="1751.5"
+     inkscape:cy="-39.17094"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -178,11 +178,11 @@
     <image
        sodipodi:absref="/home/oet/peppercarrot/peppercarrot_ep13_translation/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -267,7 +267,7 @@
          style="font-size:45px"
          x="1081.8322"
          y="418.26379"
-         id="tspan4163">är så ...</tspan></text>
+         id="tspan4163">det är så ...</tspan></text>
     <path
        style="fill:#ffffff;stroke:none"
        d="m 481.28189,1770.8321 c 3.78071,-61.0006 23.31271,-113.1592 188.73604,-113.2074 173.72661,-0.051 206.00019,32.5191 207.80166,114.8122 2.54223,116.1317 -95.37348,110.7269 -198.00324,111.0215 -143.76205,0.4127 -197.68563,0.5102 -198.53446,-112.6263 z"
@@ -290,7 +290,7 @@
          style="font-size:45px"
          x="674.7868"
          y="1790.4148"
-         id="tspan4172">he det så</tspan><tspan
+         id="tspan4172">ha det så</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="674.7868"
