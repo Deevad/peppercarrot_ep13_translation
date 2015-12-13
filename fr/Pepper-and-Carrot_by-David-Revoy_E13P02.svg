@@ -588,8 +588,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.529"
-     inkscape:cx="559.87599"
-     inkscape:cy="663.80524"
+     inkscape:cx="995.60378"
+     inkscape:cy="3102.3686"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -602,11 +602,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep13_The-Pyjama-Party/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -675,7 +675,7 @@
          style="font-size:45px"
          x="641.73279"
          y="246.82001"
-         id="tspan4178">J'éspère que vous n'êtes</tspan><tspan
+         id="tspan4178">J'espère que vous n'êtes</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="641.73279"
