@@ -51,6 +51,8 @@ License
 
 * Ukrainian: Denis "uncle Night" Prisukhin, title-art: Leonid Androschuk
 
+* Vietnamese: Binh Pham
+
 
 ## Artwork:
 
