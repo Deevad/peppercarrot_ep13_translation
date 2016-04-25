@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 13: The Pyjama Party
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -40,6 +40,8 @@ License
 * Japanese: Guruguru
 
 * Mexicano: RJ Quiralta
+
+* Portuguese: Alexandre Esteves Almeida
 
 * Russian: Denis "uncle Night" Prisukhin
 
