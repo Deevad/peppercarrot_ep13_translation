@@ -39,6 +39,8 @@ License
 
 * Japanese: Guruguru
 
+* Lojban: Gleki Arxokuna
+
 * Mexicano: RJ Quiralta
 
 * Portuguese: Alexandre Esteves Almeida

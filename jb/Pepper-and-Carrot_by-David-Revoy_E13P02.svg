@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E13P02.svg">
@@ -583,15 +583,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-width="1151"
+     inkscape:window-height="937"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4"
-     inkscape:cx="1368.3436"
-     inkscape:cy="703.1488"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="1165.0262"
+     inkscape:cy="803.1488"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -600,8 +600,8 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/bonaditya/DATA/PEPPERCARROT/peppercarrot_ep13_translation-master/id/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
+       sodipodi:absref="F:\peppercarrot_ep13_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
        y="0"
        x="0"
        id="image10"
@@ -636,7 +636,7 @@
        sodipodi:nodetypes="cssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 117.53682,195.36599 c -0.97795,-24.34525 22.37726,-45.01758 32.15772,-52.80801 9.78056,-7.79054 71.39783,-25.31911 93.89316,-25.31911 22.49489,0 121.16009,7.92107 137.78691,25.44974 16.62693,17.52858 32.39353,27.13609 21.63501,56.3504 -10.75852,29.21432 -73.93117,35.58652 -88.60173,38.5079 -14.67091,2.92146 -66.45815,0.77755 -80.15087,-0.19621 -13.69261,-0.97385 -119.65418,-2.0584 -116.7202,-41.98471 z"
+       d="m 150.0301,195.36599 c -0.868,-24.34525 19.8613,-45.01758 28.5421,-52.80801 8.6809,-7.79054 63.3703,-25.31911 83.3364,-25.31911 19.9657,0 107.5376,7.92107 122.295,25.44974 14.7575,17.52858 28.7514,27.13609 19.2025,56.3504 -9.5489,29.21432 -65.6188,35.58652 -78.6399,38.5079 -13.0214,2.92146 -58.986,0.77755 -71.1392,-0.19621 -12.1531,-0.97385 -106.201,-2.0584 -103.5969,-41.98471 z"
        id="path3357"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssssc" />
@@ -655,59 +655,59 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="263.14941"
-       y="196.93243"
+       x="280.64941"
+       y="194.43243"
        id="text4246-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="263.14941"
-         y="196.93243"
-         id="tspan4295">Sama-sama!</tspan></text>
+         x="280.64941"
+         y="194.43243"
+         id="tspan4295">i je'e do</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="566.77625"
-       y="245.36821"
+       y="237.36821"
        id="text4246-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="566.77625"
-         y="245.36821"
-         id="tspan3717">Aku harap kamu</tspan><tspan
+         y="237.36821"
+         id="tspan4328">i a'o do</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="566.77625"
-         y="301.61823"
-         id="tspan3486">senang berkunjung</tspan><tspan
+         y="293.61823"
+         id="tspan4688">na mutce terpa</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="566.77625"
-         y="357.86823"
-         id="tspan3488">kemari.</tspan></text>
+         y="349.86823"
+         id="tspan3717">lo pu se stidi be mi</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2057.3596"
-       y="2422.9304"
+       x="2057.8596"
+       y="2411.9304"
        id="text4246-5-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2057.3596"
-         y="2422.9304"
-         id="tspan3495">Sambutan yang bagus,</tspan><tspan
+         x="2057.8596"
+         y="2411.9304"
+         id="tspan4209">i ko na xanka</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2057.3596"
-         y="2479.1804"
-         id="tspan3499">aku merasa seperti</tspan><tspan
+         x="2057.8596"
+         y="2468.1804"
+         id="tspan3723">i ro ti rinsa mi'o i mi cinmo</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2057.3596"
-         y="2535.4304"
-         id="tspan3501">di rumah sendiri.</tspan></text>
+         x="2057.8596"
+         y="2524.4304"
+         id="tspan4217">lo ka zvati lo zdani be mi</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 872.93207,2929.6937 c -102.2493,-4.317 -252.40542,-20.8928 -282.00152,-55.6712 -29.5961,-34.7785 -23.60287,-78.6724 35.61893,-98.8918 59.22143,-20.2185 161.05579,-38.1599 249.69946,-32.9348 88.64369,5.2256 204.84636,27.3026 232.69976,59.9513 27.8537,32.648 3.6295,103.3705 -110.1751,118.6063 -113.80449,15.2359 -125.84153,8.9402 -125.84153,8.9402 z"
@@ -722,20 +722,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="846.40686"
-       y="2825.2639"
+       x="848.40686"
+       y="2813.2639"
        id="text4246-5-1-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="846.40686"
-         y="2825.2639"
-         id="tspan3733">... sangat elegan</tspan><tspan
+         x="856.31702"
+         y="2813.2639"
+         id="tspan3733">i ri ralci </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="846.40686"
-         y="2881.5139"
-         id="tspan3509">dan nyaman!</tspan></text>
+         x="848.40686"
+         y="2869.5139"
+         id="tspan4712">ba'e gi'e jai se kufra</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1830.46,2889.4391 c -68.2832,-2.6315 -168.5591,-12.7352 -188.3238,-33.9345 -19.7644,-21.1994 -15.7621,-47.9551 23.7867,-60.2798 39.5488,-12.3244 107.5549,-23.2607 166.7521,-20.0756 59.1971,3.1852 136.7986,16.6425 155.3992,36.5434 18.6009,19.9009 2.4238,63.01 -73.5761,72.297 -75.9997,9.2871 -84.0381,5.4495 -84.0381,5.4495 z"
@@ -745,14 +745,14 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1813.5154"
-       y="2850.3528"
+       y="2848.3528"
        id="text4246-5-1-1-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1813.5154"
-         y="2850.3528"
-         id="tspan4445-7-2">Setuju!</tspan></text>
+         y="2848.3528"
+         id="tspan4445-7-2">i jetnu</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1789.5286,2859.2084 c -17.4406,19.6955 -35.494,44.5832 -39.1772,50.8007 9.5576,0.2371 17.8297,1.9947 24.3169,3.2572 -7.9427,11.0687 -48.099,60.7935 -62.702,68.943 36.8821,-18.8625 70.248,-54.786 81.7008,-73.7289 -8.1189,-3.0555 -13.5504,-3.8913 -17.7731,-5.5983 5.1986,-9.6848 29.5461,-37.9212 29.5461,-37.9212 z"
@@ -769,12 +769,12 @@
          x="386.4519"
          style="font-size:45px"
          sodipodi:role="line"
-         id="tspan3729">Aku sangat suka</tspan><tspan
+         id="tspan3729">i mi je'a manci</tspan><tspan
          y="2791.9707"
          x="386.4519"
          style="font-size:45px"
          sodipodi:role="line"
-         id="tspan3505">akan interiornya...</tspan></text>
+         id="tspan4704">lo nenri nilce</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4238);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -789,13 +789,13 @@
          y="1742.2045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:url(#linearGradient4238);fill-opacity:1"><tspan
            style="font-size:90px;fill:url(#linearGradient4238);fill-opacity:1"
-           id="tspan4349">WoooOoh</tspan><tspan
+           id="tspan4349">uu'u uu'u</tspan><tspan
            id="tspan4365"
-           style="font-size:45.57711792px;fill:url(#linearGradient4238);fill-opacity:1"> ! </tspan><tspan
+           style="font-size:45.57711792px;fill:url(#linearGradient4238);fill-opacity:1" /><tspan
            id="tspan4311"
-           style="font-size:55.8440094px;fill:url(#linearGradient4238);fill-opacity:1">! </tspan><tspan
+           style="font-size:55.8440094px;fill:url(#linearGradient4238);fill-opacity:1" /><tspan
            id="tspan4369"
-           style="font-size:72.51364136px;fill:url(#linearGradient4238);fill-opacity:1">!</tspan></tspan></text>
+           style="font-size:72.51364136px;fill:url(#linearGradient4238);fill-opacity:1" /></tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4367);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7-7);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -810,13 +810,7 @@
          y="1742.2045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:url(#linearGradient4367);fill-opacity:1"><tspan
            style="font-size:90px;fill:url(#linearGradient4367);fill-opacity:1"
-           id="tspan4349-3">WoOoh</tspan><tspan
-           id="tspan4365-3"
-           style="font-size:45.57711792px;fill:url(#linearGradient4367);fill-opacity:1"> ! </tspan><tspan
-           id="tspan4311-2"
-           style="font-size:55.8440094px;fill:url(#linearGradient4367);fill-opacity:1">! </tspan><tspan
-           id="tspan4369-1"
-           style="font-size:72.51364136px;fill:url(#linearGradient4367);fill-opacity:1">!</tspan></tspan></text>
+           id="tspan4349-3">uuuu</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4260);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7-7-1);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -831,16 +825,10 @@
          y="1742.2045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:url(#linearGradient4260);fill-opacity:1"><tspan
            style="font-size:90px;fill:url(#linearGradient4260);fill-opacity:1"
-           id="tspan4349-3-5">WoooOoh</tspan><tspan
-           id="tspan4365-3-2"
-           style="font-size:45.57711792px;fill:url(#linearGradient4260);fill-opacity:1"> ! </tspan><tspan
-           id="tspan4311-2-4"
-           style="font-size:55.8440094px;fill:url(#linearGradient4260);fill-opacity:1">! </tspan><tspan
-           id="tspan4369-1-7"
-           style="font-size:72.51364136px;fill:url(#linearGradient4260);fill-opacity:1">!</tspan></tspan></text>
+           id="tspan4349-3-5">uu'u uu'u</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:160.11950684px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0.02734961px;word-spacing:0px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5561);enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561);enable-background:accumulate"
        id="text4251-1"
        sodipodi:linespacing="125%"
        inkscape:transform-center-x="31.424706"
@@ -852,7 +840,7 @@
          id="tspan4253-5"
          x="1705.2566"
          y="1742.2045"
-         style="font-size:45.57711792px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:8.21055126px;font-family:Lavi;-inkscape-font-specification:Lavi">shwwwwwwiiing !</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.57711792px;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:8.21055126px">ccccccccccccyvin</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-1);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -867,7 +855,7 @@
          id="tspan4253-5-1"
          x="1705.2566"
          y="1742.2045"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.57711792px;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:6.35989513px">Klaf !</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.57711792px;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:6.35989523px">klef</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-1-5);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -882,7 +870,7 @@
          id="tspan4253-5-1-0"
          x="1705.2566"
          y="1742.2045"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.57711792px;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:6.35989523px">Klukf !</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.57711792px;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:6.35989523px">klakf</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff9e9e;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7-8);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -897,13 +885,13 @@
          y="1742.2045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#ff9e9e;fill-opacity:1"><tspan
            style="font-size:90px;fill:#ff9e9e;fill-opacity:1"
-           id="tspan4349-9">Dzzziii</tspan><tspan
+           id="tspan4349-9">Dziiiiiiiin</tspan><tspan
            id="tspan4365-0"
-           style="font-size:45.57711792px;fill:#ff9e9e;fill-opacity:1"> ! </tspan><tspan
+           style="font-size:45.57711792px;fill:#ff9e9e;fill-opacity:1" /><tspan
            id="tspan4311-9"
-           style="font-size:55.8440094px;fill:#ff9e9e;fill-opacity:1">! </tspan><tspan
+           style="font-size:55.8440094px;fill:#ff9e9e;fill-opacity:1" /><tspan
            id="tspan4369-2"
-           style="font-size:72.51364136px;fill:#ff9e9e;fill-opacity:1">!</tspan></tspan></text>
+           style="font-size:72.51364136px;fill:#ff9e9e;fill-opacity:1" /></tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d7e3f4;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7-8-9);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"

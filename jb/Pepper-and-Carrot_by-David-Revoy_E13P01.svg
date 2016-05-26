@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E13P01.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-width="1151"
+     inkscape:window-height="937"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.45014485"
-     inkscape:cx="1500.8591"
-     inkscape:cy="450.78343"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.2630065"
+     inkscape:cx="1726.8891"
+     inkscape:cy="466.16634"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/bonaditya/DATA/PEPPERCARROT/peppercarrot_ep13_translation-master/id/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P01.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="F:\peppercarrot_ep13_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P01.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P01.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -98,7 +98,7 @@
        sodipodi:nodetypes="cscc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1991.6513,3136.589 c 1.6865,-49.6424 40.6221,-81.4368 81.6864,-88.6523 42.1586,-7.4079 64.1177,-4.5487 75.8245,-1.8473 11.7069,2.7015 102.4811,-3.7384 137.4181,0.8367 33.6351,4.4047 83.9487,32.9318 80.7559,96.4165 -3.1929,63.4847 -51.0848,90.4995 -100.0408,94.5516 -48.9564,4.0523 -137.2802,2.7123 -162.9309,1.7779 -38.0345,-1.3853 -105.2633,0.9237 -112.7132,-103.0834 z"
+       d="m 2038.3029,3136.589 c 1.4772,-49.6424 35.5797,-81.4368 71.5467,-88.6523 36.9255,-7.4079 56.1588,-4.5487 66.4125,-1.8473 10.2537,2.7015 89.7601,-3.7384 120.3604,0.8367 29.46,4.4047 73.5282,32.9318 70.7317,96.4165 -2.7966,63.4847 -44.7437,90.4995 -87.6228,94.5516 -42.8794,4.0523 -120.2396,2.7123 -142.7063,1.7779 -33.3133,-1.3853 -92.197,0.9237 -98.7222,-103.0834 z"
        id="path5034"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscsssscc" />
@@ -117,18 +117,22 @@
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
-       x="2178.8955"
-       y="3130.5303"
+       x="2203.332"
+       y="3103.4229"
        id="text4159"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="2178.8955"
-         y="3130.5303"
-         id="tspan3737">Senang rasanya</tspan><tspan
+         x="2203.332"
+         y="3103.4229"
+         id="tspan4146">i mutce pluka</tspan><tspan
          sodipodi:role="line"
-         x="2178.8955"
-         y="3186.7803"
-         id="tspan3379">aku di sini!</tspan></text>
+         x="2203.332"
+         y="3159.6729"
+         id="tspan4158">bu'u ti doi</tspan><tspan
+         sodipodi:role="line"
+         x="2203.332"
+         y="3215.9229"
+         id="tspan4152">la koriiander</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.00374985px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -147,29 +151,46 @@
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
-       x="2161.4355"
-       y="3297.146"
+       x="2155.6572"
+       y="3277.3611"
        id="text4177"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="2161.4355"
-         y="3297.146"
-         id="tspan3748">Terima kasih atas</tspan><tspan
+         x="2155.6572"
+         y="3277.3611"
+         id="tspan4522">i mi ckire do lo ka</tspan><tspan
          sodipodi:role="line"
-         x="2161.4355"
-         y="3353.396"
-         id="tspan3383">undangannya</tspan></text>
+         x="2155.6572"
+         y="3333.6111"
+         id="tspan4136">jai gau se vitke</tspan><tspan
+         sodipodi:role="line"
+         x="2155.6572"
+         y="3389.8611"
+         id="tspan4166">mi'a lo nu kelci</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.26602173px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.15539169;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:accumulate"
+       x="627.89648"
+       y="1448.4253"
+       id="text4201"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99121656,1.0088613)"><tspan
+         sodipodi:role="line"
+         x="627.89648"
+         y="1448.4253"
+         id="tspan4183"
+         style="stroke-width:1.15539169">lo nu surla</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
-       x="547.33362"
-       y="781.7851"
+       x="541.33362"
+       y="779.7851"
        id="text4201-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="547.33362"
-         y="781.7851"
-         id="tspan4183-9">Ini ...</tspan></text>
+         x="541.33362"
+         y="779.7851"
+         id="tspan4183-9">i traji zabna</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
@@ -180,17 +201,6 @@
          sodipodi:role="line"
          x="552.08148"
          y="1121.1799"
-         id="tspan4183-92">... luar ...</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
-       x="628.82709"
-       y="1465.4753"
-       id="text4201-2-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="628.82709"
-         y="1465.4753"
-         id="tspan4183-92-9">... biasa!</tspan></text>
+         id="tspan4183-92">citsi</tspan></text>
   </g>
 </svg>
