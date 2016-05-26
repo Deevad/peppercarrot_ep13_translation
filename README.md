@@ -13,7 +13,7 @@ License
 
 ## Translators and correctors:
 
-* Català: Juan José Segura
+* Catalan: Juan José Segura
 
 * Chinese: Ran Zhuang
 
@@ -23,7 +23,7 @@ License
 
 * Finnish: Kari Lehto
 
-* Esperanto: Kaoseto, libre fan (librefan.eu.org)
+* Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
 
 * French: David Revoy
 
@@ -51,7 +51,7 @@ License
 
 * Swedish: Mikael Olofsson
 
-* Ukrainian: Denis "uncle Night" Prisukhin, title-art: Leonid Androschuk
+* Ukrainian: Denis "uncle Night" Prisukhin, title-art: Leonid "Deburger" Androschuk
 
 * Vietnamese: Binh Pham
 
