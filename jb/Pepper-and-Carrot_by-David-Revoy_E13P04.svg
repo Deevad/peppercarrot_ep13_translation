@@ -234,15 +234,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.32526913"
-     inkscape:cx="1545.0362"
-     inkscape:cy="1482.7237"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="1431.2842"
+     inkscape:cy="2278.9874"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -251,13 +251,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep13_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep13_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -346,7 +346,7 @@
          style="font-size:45px"
          x="2098.5676"
          y="1285.4745"
-         id="tspan3750">lo jbini be lo fanmo</tspan></text>
+         id="tspan3750">lo jibni be lo fanmo</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 877.83523,1068.5833 c -0.12395,-43.0003 64.06816,-51.0724 152.02717,-48.9794 81.5044,1.9394 135.811,-2.4352 135.6573,41.4714 -0.2123,60.6403 -63.3287,52.2611 -142.6434,50.054 -70.63888,-1.9656 -144.2973,12.4305 -145.04107,-42.546 z"
