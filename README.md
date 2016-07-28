@@ -1,4 +1,4 @@
-﻿# Pepper&Carrot translation project
+# Pepper&Carrot translation project
 # Episode 13: The Pyjama Party
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -13,7 +13,7 @@ License
 
 ## Translators and correctors:
 
-* Catalan: Juan José Segura
+* Catalan: Juan Jos? Segura
 
 * Chinese: Ran Zhuang
 
@@ -29,9 +29,11 @@ License
 
 * German: Philipp Hemmer
 
-* Polish: Sölve Svartskogen
+* Greek: George Karettas
 
-* Hungarian: Halász Gábor "Hali"
+* Polish: S?lve Svartskogen
+
+* Hungarian: Hal?sz G?bor "Hali"
 
 * Indonesian: Bonaventura Aditya Perdana
 
