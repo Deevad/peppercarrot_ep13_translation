@@ -27,6 +27,8 @@ License
 
 * Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
 
+* Farsi: Aslan Zamanloo
+
 * French: David Revoy
 
 * German: Philipp Hemmer
