@@ -583,15 +583,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1858"
-     inkscape:window-height="1058"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46032694"
-     inkscape:cx="1402.7234"
-     inkscape:cy="1769.8204"
-     inkscape:window-x="1974"
-     inkscape:window-y="-8"
+     inkscape:cx="1228.9339"
+     inkscape:cy="118.81992"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -600,13 +600,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep13_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
+       sodipodi:absref="C:/work/git/peppercarrot_ep13_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -675,7 +675,7 @@
          style="font-size:45px"
          x="573.26666"
          y="229.14215"
-         id="tspan3717">Ich hoffe ihr seit von</tspan><tspan
+         id="tspan3717">Ich hoffe ihr, seid von</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="573.26666"
@@ -735,12 +735,12 @@
          style="font-size:45px"
          x="865.17883"
          y="2836.1257"
-         id="tspan3733">gleichzeitig so vornehm </tspan><tspan
+         id="tspan3576">vornehm und zugleich </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="857.26868"
          y="2892.3757"
-         id="tspan3576">und gemütlich!</tspan></text>
+         id="tspan3485">gemütlich!</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1830.46,2889.4391 c -68.2832,-2.6315 -168.5591,-12.7352 -188.3238,-33.9345 -19.7644,-21.1994 -15.7621,-47.9551 23.7867,-60.2798 39.5488,-12.3244 107.5549,-23.2607 166.7521,-20.0756 59.1971,3.1852 136.7986,16.6425 155.3992,36.5434 18.6009,19.9009 2.4238,63.01 -73.5761,72.297 -75.9997,9.2871 -84.0381,5.4495 -84.0381,5.4495 z"

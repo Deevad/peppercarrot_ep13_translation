@@ -147,15 +147,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1858"
-     inkscape:window-height="1058"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.98380074"
-     inkscape:cx="1046.6651"
-     inkscape:cy="654.08718"
-     inkscape:window-x="1974"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.34782609"
+     inkscape:cx="1391.6651"
+     inkscape:cy="1459.0872"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -164,13 +164,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep13_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P06.png"
+       sodipodi:absref="C:/work/git/peppercarrot_ep13_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -230,7 +230,7 @@
          sodipodi:role="line"
          id="tspan3603">Ich weiß, </tspan><tspan
          y="1533.0464"
-         x="1925.5885"
+         x="1925.5886"
          style="font-size:40.67671585px"
          sodipodi:role="line"
          id="tspan3426">du wolltest mich </tspan><tspan
@@ -238,7 +238,7 @@
          x="1918.4384"
          style="font-size:40.67671585px"
          sodipodi:role="line"
-         id="tspan3420">nur verteitigen...</tspan></text>
+         id="tspan3420">nur verteidigen...</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1711.6397,1305.4782 c 23.9354,-14.8086 194.659,-28.9926 243.118,9.0813 40.4482,31.7796 37.8529,94.0388 0.8082,117.4379 -37.7404,23.8385 -181.5632,15.4189 -237.1512,4.0029 -52.3464,-10.75 -51.3993,-36.7338 -49.9715,-82.0248 0.5828,-18.4848 19.2614,-33.6887 43.1965,-48.4973 z"
@@ -253,7 +253,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="1350.4341"
-         x="1834.3821"
+         x="1834.382"
          style="font-size:40.67671585px"
          sodipodi:role="line"
          id="tspan4235">Komm schon, </tspan><tspan
@@ -261,10 +261,10 @@
          x="1827.2318"
          style="font-size:40.67671585px"
          sodipodi:role="line"
-         id="tspan4239">Nicht schmollen!</tspan></text>
+         id="tspan4239">nicht schmollen!</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1791.2352,1603.7816 c 35.4828,-16.7115 282.7286,-20.9365 360.4092,10.2484 69.6302,27.9531 56.1149,106.1222 1.1981,132.528 -55.9482,26.9018 -269.1576,17.4002 -351.564,4.5174 -77.6007,-12.1315 -80.6069,-41.8284 -74.08,-92.5647 4.3795,-34.0435 28.5539,-38.0176 64.0367,-54.7291 z"
+       d="m 1781.3431,1603.7816 c 36.3434,-16.7115 289.5864,-20.9365 369.1512,10.2484 71.3191,27.9531 57.476,106.1222 1.2271,132.528 -57.3053,26.9018 -275.6862,17.4002 -360.0914,4.5174 -79.483,-12.1315 -82.5621,-41.8284 -75.8769,-92.5647 4.4858,-34.0435 29.2465,-38.0176 65.59,-54.7291 z"
        id="path4040-4-5-3-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
