@@ -160,14 +160,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1029"
-     inkscape:window-height="918"
+     inkscape:window-height="856"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000001"
-     inkscape:cx="1242.4741"
-     inkscape:cy="1984.676"
-     inkscape:window-x="2437"
-     inkscape:window-y="58"
+     inkscape:cx="1342.4741"
+     inkscape:cy="2784.676"
+     inkscape:window-x="141"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
@@ -176,13 +176,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep13_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E13P03.png"
+       sodipodi:absref="/Users/elya/Desktop/peppercarrot/git/peppercarrot_ep13_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -255,19 +255,19 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1089.7423"
+         x="1081.8322"
          y="298.26379"
-         id="tspan3668">... zu </tspan><tspan
+         id="tspan3425">… manchmal</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1089.7423"
          y="354.51379"
-         id="tspan3423">erinnern, </tspan><tspan
+         id="tspan3431">kommt mir </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1081.8322"
+         x="1089.7423"
          y="410.76379"
-         id="tspan3425">dass alles ...</tspan></text>
+         id="tspan3433">alles so … </tspan></text>
     <path
        style="fill:#ffffff;stroke:none"
        d="m 481.28189,1745.8321 c 3.78071,-61.0006 25.81271,-75.6592 191.23604,-75.7074 173.72661,-0.051 203.50019,-4.9809 205.30166,77.3122 2.54223,116.1317 -95.37348,110.7269 -198.00324,111.0215 -143.76205,0.4127 -197.68563,0.5102 -198.53446,-112.6263 z"
@@ -464,12 +464,12 @@
          x="789.20715"
          style="font-size:45px"
          sodipodi:role="line"
-         id="tspan3653">Ist es nicht schön</tspan><tspan
+         id="tspan3416">Schön dass du</tspan><tspan
          y="258.51379"
          x="789.20715"
          style="font-size:45px"
          sodipodi:role="line"
-         id="tspan3416">sich manchmal ...</tspan></text>
+         id="tspan3420">mich erinnerst …</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -481,7 +481,7 @@
          style="font-size:45px"
          x="1285.0151"
          y="506.20026"
-         id="tspan4291">... &quot;gewöhnlich&quot; ist ?</tspan></text>
+         id="tspan4291">... &quot;gewöhnlich&quot; vor ?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
