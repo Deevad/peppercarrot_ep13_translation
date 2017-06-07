@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -276,30 +276,30 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1582.9258"
-     inkscape:cy="264.5272"
-     inkscape:window-x="-8"
-     inkscape:window-y="22"
+     inkscape:cx="1144.5196"
+     inkscape:cy="241.89978"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/nightmare/Projects/p_c/peppercarrot_ep13_translation/uk/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P00.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep13_The-Pyjama-Party/lang/uk/../gfx_Pepper-and-Carrot_by-David-Revoy_E13P00.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E13P00.png"
-       width="2481"
-       height="663"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="663"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
