@@ -53,7 +53,7 @@ License
 
 * Norwegian: Thomas Nordstrøm
 
-* Portuguese: Alexandre Esteves Almeida
+* Portuguese: Alexandre E. Almeida
 
 * Russian: Denis "uncle Night" Prisukhin
 
